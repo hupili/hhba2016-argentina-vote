@@ -1,0 +1,649 @@
+,legislador_id,agrupacion,agrupacion_color,camara,mail,nombre,partido
+0,288,Kirchnerismo y aliados,#007caf,diputados,gherrera@diputados.gob.ar,"HERRERA,  Griselda Noemí",FRENTE PARA LA VICTORIA
+1,395,Kirchnerismo y aliados,#007caf,diputados,cmoreno@diputados.gob.ar,"MORENO,  Carlos Julio",FRENTE PARA LA VICTORIA
+2,401,,,diputados,,"MULLER,  Mabel Hilda",FRENTE PARA LA VICTORIA
+3,403,Kirchnerismo y aliados,#007caf,diputados, gnavarro@diputados.gob.ar,"NAVARRO,  Graciela",FRENTE CÍVICO POR SANTIAGO
+4,404,,,diputados,,"NEBREDA,  Carmen Rosa",FRENTE PARA LA VICTORIA
+5,411,Kirchnerismo y aliados,#007caf,diputados,coliva@diputados.gob.ar,"OLIVA,  Cristian Rodolfo",FRENTE CÍVICO POR SANTIAGO
+6,412,,,diputados,aolmedo@diputados.gob.ar,"OLMEDO.,  Alfredo Horacio",SALTA SOMOS TODOS
+7,414,Kirchnerismo y aliados,#007caf,diputados,moporto@diputados.gob.ar,"OPORTO,  Mario Néstor",FRENTE PARA LA VICTORIA
+8,416,Kirchnerismo y aliados,#007caf,diputados,mortizcorrea@diputados.gob.ar,"ORTIZ CORREA,  Marcia Sara María",FRENTE PARA LA VICTORIA
+9,417,Kirchnerismo y aliados,#007caf,diputados,mortiz@diputados.gob.ar,"ORTIZ,  Mariela",FRENTE PARA LA VICTORIA
+10,421,Kirchnerismo y aliados,#007caf,diputados,juan.pais@senado.gob.ar ,"PAIS.,  Juan Mario",FRENTE PARA LA VICTORIA
+11,429,Kirchnerismo y aliados,#007caf,diputados,mpastoriza@diputados.gob.ar,"PASTORIZA,  Mirta Ameliana",FRENTE CÍVICO POR SANTIAGO
+12,439,Kirchnerismo y aliados,#007caf,diputados, jperie@diputados.gob.ar,"PERIE,  Julia Argentina",FRENTE PARA LA VICTORIA
+13,440,Kirchnerismo y aliados,#007caf,diputados,omar.perotti@senado.gob.ar ,"PEROTTI.,  Omar Ángel",FRENTE PARA LA VICTORIA
+14,441,Kirchnerismo y aliados,#007caf,diputados, aperroni@diputados.gob.ar,"PERRONI,  Ana María",FRENTE PARA LA VICTORIA
+15,386,Kirchnerismo y aliados,#007caf,diputados, jmongelo@diputados.gob.ar,"MONGELO,  José Ricardo",FRENTE PARA LA VICTORIA
+16,384,Kirchnerismo y aliados,#007caf,diputados, mmolina@diputados.gob.ar,"MOLINA,  Manuel Isauro",FRENTE PARA LA VICTORIA
+17,378,Kirchnerismo y aliados,#007caf,diputados,mmetaza@diputados.gob.ar,"METAZA,  Mario Alfredo",FRENTE PARA LA VICTORIA
+18,287,Kirchnerismo y aliados,#007caf,diputados, jherrera@diputados.gob.ar,"HERRERA.,  José Alberto",FRENTE CÍVICO POR SANTIAGO
+19,290,Kirchnerismo y aliados,#007caf,diputados,aianni@diputados.gob.ar,"IANNI,  Ana María",FRENTE PARA LA VICTORIA
+20,303,Kirchnerismo y aliados,#007caf,diputados, jcjunio@diputados.gob.ar,"JUNIO,  Juan Carlos Isaac",NUEVO ENCUENTRO
+21,310,Kirchnerismo y aliados,#007caf,diputados, pkosiner@diputados.gob.ar,"KOSINER,  Pablo Francisco Juan",FRENTE PARA LA VICTORIA
+22,312,Kirchnerismo y aliados,#007caf,diputados,ckunkel@diputados.gob.ar,"KUNKEL,  Carlos Miguel",FRENTE PARA LA VICTORIA
+23,315,Kirchnerismo y aliados,#007caf,diputados,jlandau@diputados.gob.ar,"LANDAU,  Jorge Alberto",FRENTE PARA LA VICTORIA
+24,316,Kirchnerismo y aliados,#007caf,diputados,alarroque@diputados.gob.ar,"LARROQUE,  Andrés",FRENTE PARA LA VICTORIA
+25,318,,,diputados,,"LEDESMA,  Julio Rubén",CORRIENTE DE PENSAMIENTO FEDERAL
+26,327,Kirchnerismo y aliados,#007caf,diputados,sleverberg@diputados.gob.ar,"LEVERBERG,  Stella Maris",FRENTE PARA LA VICTORIA
+27,332,,,diputados,,"LLANOS,  Ermindo Edgardo Marcelo",FRENTE PARA LA VICTORIA
+28,666,Kirchnerismo y aliados,#007caf,diputados,ilotto@diputados.gob.ar,"lotto,  inés beatriz",FRENTE PARA LA VICTORIA
+29,364,Massismo y aliados,#b185b7,diputados,omartinez@diputados.gob.ar,"MARTINEZ,  Oscar Ariel",FRENTE PARA LA VICTORIA
+30,371,Kirchnerismo y aliados,#007caf,diputados,mmendoza@diputados.gob.ar,"MENDOZA,  Mayra Soledad",FRENTE PARA LA VICTORIA
+31,372,Kirchnerismo y aliados,#007caf,diputados,smendoza@diputados.gob.ar,"MENDOZA,  Sandra Marcela",FRENTE PARA LA VICTORIA
+32,445,Kirchnerismo y aliados,#007caf,diputados,hpietragallac@diputados.gob.ar,"PIETRAGALLA CORTI,  Horacio",FRENTE PARA LA VICTORIA
+33,446,,,diputados,maria.pilattivergara@senado.gov.ar ,"PILATTI VERGARA.,  María Inés",FRENTE PARA LA VICTORIA
+34,522,Kirchnerismo y aliados,#007caf,diputados,ssimoncini@diputados.gob.ar,"SIMONCINI,  Silvia Rosa",FRENTE PARA LA VICTORIA
+35,527,Kirchnerismo y aliados,#007caf,diputados,jsolanas@diputados.gob.ar,"SOLANAS,  Julio Rodolfo",FRENTE PARA LA VICTORIA
+36,530,Kirchnerismo y aliados,#007caf,diputados,gsoto@diputados.gob.ar,"SOTO,  Gladys Beatriz",FRENTE PARA LA VICTORIA
+37,542,Kirchnerismo y aliados,#007caf,diputados, jtineo@diputados.gob.ar,"TINEO,  Javier Héctor",FRENTE PARA LA VICTORIA
+38,545,Kirchnerismo y aliados,#007caf,diputados, htomas@diputados.gob.ar,"TOMAS,  Héctor Daniel",FRENTE PARA LA VICTORIA
+39,554,Kirchnerismo y aliados,#007caf,diputados, junac@diputados.gob.ar,"UÑAC,  José Rubén",FRENTE PARA LA VICTORIA
+40,565,,,diputados,,"VEAUTE,  Mariana Alejandra",FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+41,570,Kirchnerismo y aliados,#007caf,diputados,jvilarino@diputados.gob.ar,"VILARIÑO,  José Antonio",FRENTE PARA LA VICTORIA
+42,571,Kirchnerismo y aliados,#007caf,diputados,jvilla@diputados.gob.ar,"VILLA,  José Antonio",FRENTE PARA LA VICTORIA
+43,574,,,diputados,,"WAYAR,  Walter Raúl",FRENTE PERONISTA FEDERAL
+44,578,,,diputados,,"YARADE,  Rodolfo Fernando",FRENTE PARA LA VICTORIA
+45,579,,,diputados,,"YAZBEK,  Rubén David",FRENTE PARA LA VICTORIA
+46,582,Kirchnerismo y aliados,#007caf,diputados,mzamarreno@diputados.gob.ar,"ZAMARREÑO,  María Eugenia",FRENTE PARA LA VICTORIA
+47,585,Kirchnerismo y aliados,#007caf,diputados,cziebart@diputados.gob.ar,"ZIEBART,  Cristina Isabel",FRENTE PARA LA VICTORIA
+48,519,Kirchnerismo y aliados,#007caf,diputados,asegarra@diputados.gob.ar,"SEGARRA,  Adela Rosa",FRENTE PARA LA VICTORIA
+49,518,Massismo y aliados,#b185b7,diputados,rsciutto@diputados.gob.ar,"SCIUTTO,  Rubén Darío",FRENTE PARA LA VICTORIA
+50,510,Kirchnerismo y aliados,#007caf,diputados,wsantillan@diputados.gob.ar,"SANTILLÁN,  Walter Marcelo",FRENTE PARA LA VICTORIA
+51,667,Kirchnerismo y aliados,#007caf,diputados,apuiggros@diputados.gob.ar,"puiggrós,  adriana",FRENTE PARA LA VICTORIA
+52,462,Kirchnerismo y aliados,#007caf,diputados, craimundi@diputados.gob.ar,"RAIMUNDI,  Carlos Alberto",NUEVO ENCUENTRO
+53,465,Kirchnerismo y aliados,#007caf,diputados,hrecalde@diputados.gob.ar,"RECALDE,  Héctor Pedro",FRENTE PARA LA VICTORIA
+54,466,Kirchnerismo y aliados,#007caf,diputados, oredczuk@diputados.gob.ar,"REDCZUK,  Oscar Felipe",FRENTE PARA LA VICTORIA
+55,467,,,diputados,,"REGAZZOLI,  María Cristina",PARTIDO JUSTICIALISTA LA PAMPA
+56,475,Kirchnerismo y aliados,#007caf,diputados,lrios@diputados.gob.ar,"RÍOS,  Liliana María",FRENTE PARA LA VICTORIA
+57,474,,,diputados,,"RIOS,  Fabián",FRENTE PARA LA VICTORIA
+58,478,Kirchnerismo y aliados,#007caf,diputados,srisko@diputados.gob.ar,"RISKO,  Silvia Lucrecia",FRENTE PARA LA VICTORIA
+59,481,Kirchnerismo y aliados,#007caf,diputados,rrivarola@diputados.gob.ar,"RIVAROLA,  Rubén Armando",FRENTE PARA LA VICTORIA
+60,482,Kirchnerismo y aliados,#007caf,diputados,jrivas@diputados.gob.ar,"RIVAS,  Jorge",FRENTE PARA LA VICTORIA
+61,484,,,diputados,,"ROBLEDO,  Roberto Ricardo",PARTIDO JUSTICIALISTA LA PAMPA
+62,495,,,diputados,,"ROSSI,  Agustín Oscar",FRENTE PARA LA VICTORIA
+63,502,Kirchnerismo y aliados,#007caf,diputados, aruiz@diputados.gob.ar,"RUIZ,  Aída Delia",FRENTE CÍVICO POR SANTIAGO
+64,506,,,diputados,,"SALIM,  Juan Arturo",FRENTE PARA LA VICTORIA
+65,586,Kirchnerismo y aliados,#007caf,diputados,aziegler@diputados.gob.ar,"ZIEGLER,  Alex Roberto",FRENTE PARA LA VICTORIA
+66,628,Kirchnerismo y aliados,#007caf,diputados,cheller@diputados.gob.ar,"heller,  carlos salomón",NUEVO ENCUENTRO
+67,1,Kirchnerismo y aliados,#007caf,diputados,nabdaladem@diputados.gob.ar,"Abdala de Matarazzo,  Norma Amanda",FRENTE CÍVICO POR SANTIAGO
+68,103,Kirchnerismo y aliados,#007caf,diputados, ecalcagno@diputados.gob.ar,"CALCAGNO,  Eric",FRENTE PARA LA VICTORIA
+69,117,Kirchnerismo y aliados,#007caf,diputados, rcarlotto@diputados.gob.ar,"CARLOTTO,  Remo Gerardo",FRENTE PARA LA VICTORIA
+70,118,Kirchnerismo y aliados,#007caf,diputados, gcarmona@diputados.gob.ar,"CARMONA,  Guillermo Ramón",FRENTE PARA LA VICTORIA
+71,121,Kirchnerismo y aliados,#007caf,diputados,mcarrillo@diputados.gob.ar,"CARRILLO,  María Del Carmen",FRENTE PARA LA VICTORIA
+72,124,Kirchnerismo y aliados,#007caf,diputados,gcaselles@diputados.gob.ar,"CASELLES.,  Graciela María",FRENTE PARA LA VICTORIA
+73,129,,,diputados,julio.catalanmagni@senado.gov.ar ,"CATALAN MAGNI.,  Julio César",FRENTE PARA LA VICTORIA
+74,132,Kirchnerismo y aliados,#007caf,diputados, jcejas@diputados.gob.ar,"CEJAS,  Jorge Alberto",FRENTE PARA LA VICTORIA
+75,136,,,diputados,,"CHIENO,  María Elena",FRENTE PARA LA VICTORIA
+76,139,Kirchnerismo y aliados,#007caf,diputados,aciampini@diputados.gob.ar,"CIAMPINI,  José Alberto",FRENTE PARA LA VICTORIA
+77,141,,,diputados,,"CIGOGNA,  Luis Francisco Jorge",FRENTE PARA LA VICTORIA
+78,143,Kirchnerismo y aliados,#007caf,diputados,mcleri@diputados.gob.ar,"CLERI,  Marcos",FRENTE PARA LA VICTORIA
+79,147,Otros,#A6A6A6,diputados,acomelli@diputados.gob.ar,"COMELLI,  Alicia Marcela",MOVIMIENTO POPULAR NEUQUINO
+80,149,Kirchnerismo y aliados,#007caf,diputados,dconti@diputados.gob.ar,"CONTI,  Diana Beatriz",FRENTE PARA LA VICTORIA
+81,150,Kirchnerismo y aliados,#007caf,diputados,mcontrera@diputados.gob.ar,"CONTRERA,  Mónica Graciela",FRENTE PARA LA VICTORIA
+82,98,,,diputados,,"BRUE,  Daniel Agustín",FRENTE CÍVICO POR SANTIAGO
+83,96,Kirchnerismo y aliados,#007caf,diputados, ibromberg@diputados.gob.ar,"BROMBERG,  Isaac Benjamín",FRENTE PARA LA VICTORIA
+84,94,,,diputados,,"BRILLO,  José Ricardo",MOVIMIENTO POPULAR NEUQUINO
+85,14,,,diputados,,"ALBRIEU,  Oscar Edmundo Nicolas",FRENTE PARA LA VICTORIA
+86,23,Kirchnerismo y aliados,#007caf,diputados,malonso@diputados.gob.ar,"ALONSO,  María Luz",FRENTE PARA LA VICTORIA
+87,34,,,diputados,,"ARENA,  Celia Isabel",FRENTE PARA LA VICTORIA
+88,40,Kirchnerismo y aliados,#007caf,diputados,aarregui@diputados.gob.ar,"ARREGUI,  Andrés Roberto",FRENTE PARA LA VICTORIA
+89,48,Kirchnerismo y aliados,#007caf,diputados,havoscan@diputados.gob.ar,"AVOSCÁN,  Herman",FRENTE PARA LA VICTORIA
+90,52,Kirchnerismo y aliados,#007caf,diputados, mbalcedo@diputados.gob.ar,"BALCEDO,  María Ester",FRENTE PARA LA VICTORIA
+91,58,,,diputados,,"BARRANDEGUY,  Raúl Enrique",FRENTE PARA LA VICTORIA
+92,63,Kirchnerismo y aliados,#007caf,diputados, lbasterra@diputados.gob.ar,"BASTERRA,  Luis Eugenio",FRENTE PARA LA VICTORIA
+93,67,Kirchnerismo y aliados,#007caf,diputados,nbedano@diputados.gob.ar,"BEDANO,  Nora Esther",FRENTE PARA LA VICTORIA
+94,72,,,diputados,,"BERNAL,  María Eugenia",FRENTE PARA LA VICTORIA
+95,76,,,diputados,,"BERTONE,  Rosana Andrea",FRENTE PARA LA VICTORIA
+96,81,Kirchnerismo y aliados,#007caf,diputados,mbianchi@diputados.gob.ar,"BIANCHI,  María del Carmen",FRENTE PARA LA VICTORIA
+97,83,Kirchnerismo y aliados,#007caf,diputados,gbidegain@diputados.gob.ar,"BIDEGAIN,  Gloria Mercedes",FRENTE PARA LA VICTORIA
+98,93,Kirchnerismo y aliados,#007caf,diputados,mbrawer@diputados.gob.ar,"BRAWER,  Mara",FRENTE PARA LA VICTORIA
+99,152,,,diputados,,"CORDOBA,  Stella Maris",FRENTE PARA LA VICTORIA
+100,161,,,diputados,,"CURRILEN,  Oscar Rubén",FRENTE PARA LA VICTORIA
+101,238,,,diputados,silvina.garcialarraburu@senado.gov.ar ,"GARCIA LARRABURU.,  Silvina Marcela",FRENTE PARA LA VICTORIA
+102,240,Kirchnerismo y aliados,#007caf,diputados,agarcia@diputados.gob.ar,"GARCÍA,  Andrea Fabiana",FRENTE PARA LA VICTORIA
+103,242,Kirchnerismo y aliados,#007caf,diputados,mgarcia@diputados.gob.ar,"GARCÍA,  María Teresa",FRENTE PARA LA VICTORIA
+104,247,,,diputados,,"GARRAMUÑO,  Jorge Alberto",MOVIMIENTO POPULAR FUEGUINO
+105,250,Kirchnerismo y aliados,#007caf,diputados,cgdansky@diputados.gob.ar,"GDANSKY,  Carlos Enrique",FRENTE PARA LA VICTORIA
+106,254,Kirchnerismo y aliados,#007caf,diputados,cgiaccone@diputados.gob.ar,"GIACCONE,  Claudia Alejandra",FRENTE PARA LA VICTORIA
+107,255,Kirchnerismo y aliados,#007caf,diputados,dgiacomino@diputados.gob.ar,"GIACOMINO,  Daniel Oscar",FRENTE PARA LA VICTORIA
+108,665,Kirchnerismo y aliados,#007caf,diputados,ggiannettasio@diputados.gob.ar,"gianettasio,  graciela",FRENTE PARA LA VICTORIA
+109,268,Kirchnerismo y aliados,#007caf,diputados, jgonzalez@diputados.gob.ar,"GONZALEZ,  Juan Dante",FRENTE PARA LA VICTORIA
+110,270,,,diputados,nancy.gonzalez@senado.gob.ar ,"GONZALEZ.,  Nancy Susana",FRENTE PARA LA VICTORIA
+111,272,Kirchnerismo y aliados,#007caf,diputados, dgranados@diputados.gob.ar,"GRANADOS,  Dulce",FRENTE PARA LA VICTORIA
+112,274,Kirchnerismo y aliados,#007caf,diputados,lgrosso@diputados.gob.ar,"GROSSO.,  Leonardo",FRENTE PARA LA VICTORIA
+113,275,Kirchnerismo y aliados,#007caf,diputados,jguccione@diputados.gob.ar,"GUCCIONE,  José Daniel",FRENTE PARA LA VICTORIA
+114,280,Kirchnerismo y aliados,#007caf,diputados,mgutierrez@diputados.gob.ar,"GUTIÉRREZ,  Mónica Edith",FRENTE PARA LA VICTORIA
+115,283,Kirchnerismo y aliados,#007caf,diputados,gharispe@diputados.gob.ar,"HARISPE,  Gastón",NUEVO ENCUENTRO
+116,657,Kirchnerismo y aliados,#007caf,diputados,mgallardo@diputados.gob.ar,"gallardo,  miriam",FRENTE PARA LA VICTORIA
+117,229,Kirchnerismo y aliados,#007caf,diputados,ffrancioni@diputados.gob.ar,"FRANCIONI,  Fabián Marcelo",FRENTE PARA LA VICTORIA
+118,166,Kirchnerismo y aliados,#007caf,diputados,adato@diputados.gob.ar,"DATO,  Alfredo Carlos",FRENTE PARA LA VICTORIA
+119,177,Kirchnerismo y aliados,#007caf,diputados, edepedro@diputados.gob.ar,"de PEDRO,  Eduardo Enrique",FRENTE PARA LA VICTORIA
+120,182,Kirchnerismo y aliados,#007caf,diputados,edepetri@diputados.gob.ar,"DEPETRI,  Edgardo Fernando",FRENTE PARA LA VICTORIA
+121,185,Kirchnerismo y aliados,#007caf,diputados, jditullio@diputados.gob.ar,"di TULLIO,  Juliana",FRENTE PARA LA VICTORIA
+122,186,Kirchnerismo y aliados,#007caf,diputados, jdiaz@diputados.gob.ar,"DIAZ BANCALARI,  José María",FRENTE PARA LA VICTORIA
+123,187,Kirchnerismo y aliados,#007caf,diputados, jdiazr@diputados.gob.ar,"DÍAZ ROIG,  Juan Carlos",FRENTE PARA LA VICTORIA
+124,193,Kirchnerismo y aliados,#007caf,diputados,cdonkin@diputados.gob.ar,"DONKIN,  Carlos Guillermo",FRENTE PARA LA VICTORIA
+125,198,Kirchnerismo y aliados,#007caf,diputados,oelorriaga@diputados.gob.ar,"ELORRIAGA,  Osvaldo Enrique",FRENTE PARA LA VICTORIA
+126,207,Kirchnerismo y aliados,#007caf,diputados,rfeletti@diputados.gob.ar,"FELETTI,  Roberto José",FRENTE PARA LA VICTORIA
+127,226,,,diputados,,"FORCONI,  Juan Carlos",FRENTE PARA LA VICTORIA
+128,224,,,diputados,maria.fiorevinuales@senado.gov.ar ,"FIORE VIÑUALES.,  María Cristina del Valle",RENOVADOR DE SALTA
+129,1176,Kirchnerismo y aliados,#007caf,diputados,aferreyra@diputados.gob.ar,"Ferreyra,  Araceli Susana Del Rosario",
+130,215,,,diputados,,"FERRA de BARTOL,  Margarita",FRENTE PARA LA VICTORIA
+131,211,Kirchnerismo y aliados,#007caf,diputados,anabel.fernandezsagasti@senado.gob.ar ,"FERNÁNDEZ SAGASTI.,  Anabel",FRENTE PARA LA VICTORIA
+132,208,,,diputados,,"FELIX,  Omar",FRENTE PARA LA VICTORIA
+133,304,,,diputados,,"JURI,  Mariana",UNIÓN CÍVICA RADICAL
+134,281,,,diputados,,"GUZMAN,  Olga Elizabeth",MOVIMIENTO POPULAR NEUQUINO
+135,221,UNEN - FAP - UCR,#8eab35,diputados,mfiad@diputados.gob.ar,"FIAD,  Mario Raymundo",UNIÓN CÍVICA RADICAL
+136,122,UNEN - FAP - UCR,#8eab35,diputados,ecarrio@diputados.gob.ar,"CARRIÓ,  Elisa María",COALICIÓN CÍVICA - ARI
+137,57,UNEN - FAP - UCR,#8eab35,diputados,obarchetta@diputados.gob.ar,"BARCHETTA,  Omar Segundo",PARTIDO SOCIALISTA
+138,580,,,diputados,,"YOMA,  Jorge Raul",FRENTE PARA LA VICTORIA
+139,350,UNEN - FAP - UCR,#8eab35,diputados, vmaldonado@diputados.gob.ar,"MALDONADO,  Víctor Hugo",UNIÓN CÍVICA RADICAL
+140,452,UNEN - FAP - UCR,#8eab35,diputados,aportela@diputados.gob.ar,"PORTELA,  Agustín Alberto",UNIÓN CÍVICA RADICAL
+141,463,UNEN - FAP - UCR,#8eab35,diputados,erasino@diputados.gob.ar,"RASINO,  Élida Elena",PARTIDO SOCIALISTA
+142,526,,,diputados,fernando.solanas@senado.gov.ar ,"SOLANAS.,  Fernando Ezequiel",PROYECTO SUR
+143,511,UNEN - FAP - UCR,#8eab35,diputados,esantin@diputados.gob.ar,"SANTÍN,  Eduardo",UNIÓN CÍVICA RADICAL
+144,504,,,diputados,,"SABBATELLA,  Martín",NUEVO ENCUENTRO
+145,486,,,diputados,,"RODRIGUEZ,  Marcela Virginia",DEMOCRACIA IGUALITARIA Y PARTICIPATIVA
+146,483,Massismo y aliados,#b185b7,diputados,aroberti@diputados.gob.ar,"ROBERTI,  Alberto Oscar",FRENTE RENOVADOR PERONISTA
+147,405,UNEN - FAP - UCR,#8eab35,diputados,mnegri@diputados.gob.ar,"NEGRI,  Mario Raúl",UNIÓN CÍVICA RADICAL
+148,409,,,diputados,,"OBIGLIO,  Julián Martín",PRO
+149,410,,,diputados,,"OCAÑA,  Maria Graciela",UNIDAD PARA EL DESARROLLO SOCIAL Y LA
+150,415,,,diputados,,"ORSOLINI,  Pablo Eduardo",UNIÓN CÍVICA RADICAL
+151,422,,,diputados,,"PANSA,  Sergio Horacio",FRENTE PERONISTA
+152,424,,,diputados,,"PARADA,  Liliana Beatriz",UNIDAD POPULAR
+153,430,UNEN - FAP - UCR,#8eab35,diputados,fperalta@diputados.gob.ar,"PERALTA,  Fabián Francisco",GEN
+154,434,,,diputados,,"PEREZ,  Alberto José",FRENTE PERONISTA
+155,444,,,diputados,,"PIEMONTE,  Héctor Horacio",COALICIÓN CÍVICA - ARI
+156,447,Pro y aliados,#fbd95b,diputados,federico.pinedo@senado.gob.ar ,"PINEDO.,  Federico",PRO
+157,400,Peronismo no kirchnerista,#f6a619,diputados,emuller@diputados.gob.ar,"MULLER,  Edgar Raúl",FRENTE PERONISTA
+158,687,Massismo y aliados,#b185b7,diputados,fmoyano@diputados.gob.ar,"moyano,  facundo",FRENTE PARA LA VICTORIA
+159,349,Pro y aliados,#fbd95b,diputados,smajdalani@diputados.gob.ar,"MAJDALANI,  Silvia Cristina",PRO
+160,362,,,diputados,ernesto.martinezcarignano@senado.gov.ar,"Martínez.,  Ernesto Félix",FRENTE CÍVICO - CÓRDOBA
+161,697,Izquierda,#D23939,diputados, clozano@diputados.gob.ar,"lozano,  claudio",UNIDAD POPULAR
+162,363,UNEN - FAP - UCR,#8eab35,diputados,jmartinez@diputados.gob.ar,"MARTÍNEZ,  Julio César",UNIÓN CÍVICA RADICAL
+163,365,Pro y aliados,#fbd95b,diputados,smartinez@diputados.gob.ar,"MARTÍNEZ,  Soledad",PRO
+164,368,,,diputados,,"MAZZARELLA,  Susana del Valle",FRENTE CÍVICO - CÓRDOBA
+165,379,,,diputados,,"MICHETTI,  Marta Gabriela",PRO
+166,380,,,diputados,,"MILMAN,  Gerardo Fabián",GEN
+167,383,,,diputados,,"MOLAS,  Pedro Omar",FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+168,398,,,diputados,,"MOUILLERON,  Roberto Mario",UNIÓN PERONISTA
+169,450,Peronismo no kirchnerista,#f6a619,diputados,oplaini@diputados.gob.ar,"PLAINI,  Francisco Omar",FRENTE PARA LA VICTORIA
+170,454,Pro y aliados,#fbd95b,diputados,rpradines@diputados.gob.ar,"PRADINES,  Roberto Arturo",DEMÓCRATA DE MENDOZA
+171,456,Otros,#A6A6A6,diputados, rpucheta@diputados.gob.ar,"PUCHETA,  Ramona",SOCIALISTA DEL MIJD
+172,541,,,diputados,,"THOMAS,  Enrique Luis",FRENTE PERONISTA
+173,547,Pro y aliados,#fbd95b,diputados, ptonelli@diputados.gob.ar,"TONELLI,  Pablo Gabriel",PRO
+174,551,Pro y aliados,#fbd95b,diputados,atriaca@diputados.gob.ar,"TRIACA,  Alberto Jorge",PRO
+175,553,,,diputados,,"TUNESSI,  Juan Pedro",UNIÓN CÍVICA RADICAL
+176,558,UNEN - FAP - UCR,#8eab35,diputados,jvalinotto@diputados.gob.ar,"VALINOTTO,  Jorge Anselmo",FRENTE CÍVICO - CÓRDOBA
+177,560,UNEN - FAP - UCR,#8eab35,diputados,evaquie@diputados.gob.ar,"VAQUIÉ,  Enrique Andrés",UNIÓN CÍVICA RADICAL
+178,569,,,diputados,,"VIDELA,  Nora Esther",FRENTE PERONISTA
+179,572,UNEN - FAP - UCR,#8eab35,diputados,gvillata@diputados.gob.ar,"VILLATA,  Graciela Susana",FRENTE CÍVICO - CÓRDOBA
+180,577,,,diputados,,"YAGÛE,  Linda Cristina",UNIÓN CÍVICA RADICAL
+181,581,UNEN - FAP - UCR,#8eab35,diputados,jzabalza@diputados.gob.ar,"ZABALZA,  Juan Carlos",PARTIDO SOCIALISTA
+182,540,,,diputados,aterada@diputados.gob.ar,"TERADA,  Alicia",COALICIÓN CÍVICA - ARI
+183,535,,,diputados,,"STORANI,  María Luisa",UNIÓN CÍVICA RADICAL
+184,457,,,diputados,,"PUERTA,  Federico Ramón",FRENTE PERONISTA
+185,464,,,diputados,,"RE,  Hilma Leonor",COALICIÓN CÍVICA - ARI
+186,472,Izquierda,#D23939,diputados,ariestra@diputados.gob.ar,"RIESTRA,  Antonio Sabino",UNIDAD POPULAR
+187,480,,,diputados,,"RIVARA,  Raúl Alberto",UNIÓN PERONISTA
+188,488,UNEN - FAP - UCR,#8eab35,diputados, frogel@diputados.gob.ar,"ROGEL,  Fabián Dulio",UNIÓN CÍVICA RADICAL
+189,500,,,diputados,crucci@diputados.gob.ar,"RUCCI.,  Claudia Monica",FRENTE PERONISTA
+190,505,UNEN - FAP - UCR,#8eab35,diputados,lsacca@diputados.gob.ar,"SACCA,  Luis Fernando",UNIÓN CÍVICA RADICAL
+191,763,Pro y aliados,#fbd95b,diputados,csliermann@diputados.gob.ar,"Schmidt Liermann, Cornelia",PRO
+192,672,Massismo y aliados,#b185b7,diputados, fsola@diputados.gob.ar,"solá,  felipe",UNIÓN PERONISTA
+193,533,UNEN - FAP - UCR,#8eab35,diputados, mstolbizer@diputados.gob.ar,"STOLBIZER,  Margarita Rosa",GEN
+194,291,,,diputados,,"IBARRA,  Eduardo Mauricio",UNIÓN POR SAN JUAN
+195,8,UNEN - FAP - UCR,#8eab35,diputados,oaguad@diputados.gob.ar,"Aguad,  Oscar Raúl",UNIÓN CÍVICA RADICAL
+196,75,,,diputados,,"BERTOL,  Paula María",PRO
+197,80,Peronismo no kirchnerista,#f6a619,diputados,ibianchi@diputados.gob.ar,"BIANCHI,  Ivana María",FRENTE PERONISTA
+198,84,UNEN - FAP - UCR,#8eab35,diputados,bbiellac@diputados.gob.ar,"BIELLA CALVET,  Bernardo José",U.DE.SO. SALTA
+199,88,,,diputados,,"BLANCO de PERALTA,  Blanca",FRENTE PARA LA VICTORIA
+200,95,,,diputados,,"BRIZUELA Y DORIA DE CARA,  Olga Inés",UNIÓN CÍVICA RADICAL
+201,97,Peronismo no kirchnerista,#f6a619,diputados,cbrown@diputados.gob.ar,"BROWN,  Carlos Ramón",FRENTE PERONISTA
+202,100,Pro y aliados,#fbd95b,diputados,pbullrich@diputados.gob.ar,"BULLRICH,  Patricia",UNIÓN POR TODOS
+203,101,UNEN - FAP - UCR,#8eab35,diputados,rburyaile@diputados.gob.ar,"BURYAILE,  Ricardo",UNIÓN CÍVICA RADICAL
+204,108,Massismo y aliados,#b185b7,diputados,gcamano@diputados.gob.ar,"CAMAÑO,  Graciela",FRENTE PERONISTA
+205,116,,,diputados,,"CARDELLI,  Jorge Justo",PROYECTO SUR
+206,120,,,diputados,,"CARRANZA,  Carlos Alberto",FRENTE PERONISTA
+207,123,UNEN - FAP - UCR,#8eab35,diputados,jcasanas@diputados.gob.ar,"CASAÑAS,  Juan Francisco",UNIÓN CÍVICA RADICAL
+208,128,,,diputados,,"CASTAÑON,  Hugo",UNIÓN CÍVICA RADICAL
+209,71,,,diputados,,"BENEDETTI,  Atilio Francisco Salvador",UNIÓN CÍVICA RADICAL
+210,65,UNEN - FAP - UCR,#8eab35,diputados,mbazze@diputados.gob.ar,"BAZZE,  Miguel Ángel",UNIÓN CÍVICA RADICAL
+211,10,Peronismo no kirchnerista,#f6a619,diputados,laguilar@diputados.gob.ar,"AGUILAR,  Lino Walter",FRENTE PERONISTA
+212,13,,,diputados,,"ALBARRACIN,  Jorge Luis",UNIÓN CÍVICA RADICAL
+213,19,UNEN - FAP - UCR,#8eab35,diputados, ralfonsin@diputados.gob.ar,"ALFONSÍN,  Ricardo Luis",UNIÓN CÍVICA RADICAL
+214,21,,,diputados,,"ALONSO,  Gumersindo Federico",FRENTE CÍVICO - CÓRDOBA
+215,22,Pro y aliados,#fbd95b,diputados, lalonso@diputados.gob.ar,"ALONSO,  Laura",PRO
+216,25,,,diputados,,"ALVAREZ,  Elsa María",UNIÓN CÍVICA RADICAL
+217,26,,,diputados,,"ALVAREZ,  Jorge Mario",UNIÓN CÍVICA RADICAL
+218,29,,,diputados,eamadeo@diputados.gob.ar,"AMADEO.,  Eduardo Pablo",FRENTE PERONISTA
+219,38,UNEN - FAP - UCR,#8eab35,diputados, aargumedo@diputados.gob.ar,"ARGUMEDO,  Alcira Susana",PROYECTO SUR
+220,44,,,diputados,,"ASPIAZU,  Lucio Bernardo",UNIÓN CÍVICA RADICAL
+221,45,Massismo y aliados,#b185b7,diputados,aasseff@diputados.gob.ar,"ASSEFF,  Alberto Emilio",FRENTE PERONISTA
+222,46,,,diputados,,"ATANASOF,  Alfredo Néstor",FRENTE PERONISTA
+223,56,,,diputados,,"BARBIERI,  Mario Leandro",UNIÓN CÍVICA RADICAL
+224,134,,,diputados,,"CHEMES,  Jorge Omar",UNIÓN CÍVICA RADICAL
+225,140,UNEN - FAP - UCR,#8eab35,diputados,aciciliani@diputados.gob.ar,"CICILIANI,  Alicia Mabel",PARTIDO SOCIALISTA
+226,148,,,diputados,,"COMI,  Carlos Marcelo",COALICIÓN CÍVICA - ARI
+227,214,,,diputados,,"FERNANDEZ,  Rodolfo Alfredo",UNIÓN CÍVICA RADICAL
+228,216,,,diputados,,"FERRARI,  Gustavo Alfredo",FRENTE PERONISTA
+229,227,,,diputados,,"FORTE,  Ulises Umberto",UNIÓN CÍVICA RADICAL
+230,228,,,diputados,,"FORTUNA,  Francisco José",CÓRDOBA FEDERAL
+231,235,,,diputados,,"GAMBARO,  Natalia",FRENTE PERONISTA
+232,246,,,diputados,,"GARNERO,  Estela Ramona",CÓRDOBA FEDERAL
+233,249,UNEN - FAP - UCR,#8eab35,diputados, mgarrido@diputados.gob.ar,"GARRIDO,  Manuel",UNIÓN CÍVICA RADICAL
+234,253,,,diputados,,"GERMANO,  Daniel",FRENTE PERONISTA
+235,257,,,diputados,,"GIL LAVEDRA,  Ricardo Rodolfo",UNIÓN CÍVICA RADICAL
+236,262,UNEN - FAP - UCR,#8eab35,diputados,mgiubergia@diputados.gob.ar,"GIUBERGIA,  Miguel Ángel",UNIÓN CÍVICA RADICAL
+237,266,Pro y aliados,#fbd95b,diputados,ggonzalez@diputados.gob.ar,"GONZÁLEZ,  Gladys Esther",PRO
+238,298,,,diputados,,"ITURRASPE,  Nora Graciela",UNIDAD POPULAR
+239,311,UNEN - FAP - UCR,#8eab35,diputados,dkroneberger@diputados.gob.ar,"KRONEBERGER,  Daniel Ricardo",UNIÓN CÍVICA RADICAL
+240,205,,,diputados,,"FAVARIO,  Carlos Alberto",DEMÓCRATA PROGRESISTA
+241,204,,,diputados,,"FAUSTINELLI,  Hipólito",UNIÓN CÍVICA RADICAL
+242,154,UNEN - FAP - UCR,#8eab35,diputados,rcortina@diputados.gob.ar,"CORTINA,  Roy",PARTIDO SOCIALISTA
+243,156,UNEN - FAP - UCR,#8eab35,diputados,ecosta@diputados.gob.ar,"COSTA,  Eduardo Raúl",UNIÓN CÍVICA RADICAL
+244,158,Massismo y aliados,#b185b7,diputados,mcremer@diputados.gob.ar,"CREMER de BUSTI,  María Cristina",FRENTE PERONISTA
+245,159,UNEN - FAP - UCR,#8eab35,diputados,rcuccovillo@diputados.gob.ar,"CUCCOVILLO,  Ricardo Oscar",PARTIDO SOCIALISTA
+246,171,UNEN - FAP - UCR,#8eab35,diputados,pdeferrarir@diputados.gob.ar,"De FERRARI RUEDA,  Patricia",UNIÓN CÍVICA RADICAL
+247,172,Izquierda,#D23939,diputados, vdegennaro@diputados.gob.ar,"De GENNARO,  Víctor Norberto",UNIDAD POPULAR
+248,175,,,diputados,,"DE MARCHI,  Omar Bruno",DEMÓCRATA DE MENDOZA
+249,176,Peronismo no kirchnerista,#f6a619,diputados,fdenarvaez@diputados.gob.ar,"DE NARVÁEZ,  Francisco",FRENTE PERONISTA
+250,178,,,diputados,,"de PRAT GAY,  Alfonso",COALICIÓN CÍVICA - ARI
+251,616,UNEN - FAP - UCR,#8eab35,diputados,vdondap@diputados.gob.ar,"donda,  victoria",LIBRES DEL SUR
+252,195,UNEN - FAP - UCR,#8eab35,diputados,oduclos@diputados.gob.ar,"DUCLOS,  Omar Arnaldo",GEN
+253,200,,,diputados,,"ESPINDOLA,  Gladys Susana",UNIÓN CÍVICA RADICAL
+254,203,,,diputados,,"FADUL,  Liliana",PARTIDO FEDERAL FUEGUINO
+255,329,UNEN - FAP - UCR,#8eab35,diputados, vlinares@diputados.gob.ar,"LINARES,  María Virginia",GEN
+1088,191,Kirchnerismo y aliados,#007caf,diputados,jdominguez@diputados.gob.ar,"DOMÍNGUEZ,  Julián Andrés",FRENTE PARA LA VICTORIA
+2407,77,,,diputados,,"BETTANIN,  Juan Carlos",FRENTE NUEVO ENCUENTRO
+4079,319,,,diputados,,"Legislador a Designar,  Nro. 1",FRENTE PARA LA VICTORIA
+11305,381,,,diputados,beatriz.mirkin@senado.gob.ar ,"MIRKIN.,  Beatriz Graciela",FRENTE PARA LA VICTORIA
+11433,197,,,diputados,,"ELICECHE,  Carlos Tomas",FRENTE PARA LA VICTORIA
+27740,31,,,diputados,,"ARAGON,  Santiago",FRENTE PARA LA VICTORIA
+30212,70,,,diputados,,"BENAS,  Verónica Claudia",SI POR LA UNIDAD POPULAR
+30215,345,,,diputados,,"MACALUSE,  Eduardo Gabriel",SI POR LA UNIDAD POPULAR
+30216,375,,,diputados,,"MERCHAN,  Paula Cecilia",LIBRES DEL SUR
+30221,408,,,diputados,,"OBEID,  Jorge Alberto",PERONISMO FEDERAL
+30225,393,,,diputados,,"MORANTE,  Antonio Arnaldo María",FRENTE PARA LA VICTORIA
+30227,425,,,diputados,,"PAREDES URQUIZA,  Alberto Nicolás",FRENTE PARA LA VICTORIA
+30232,435,,,diputados,,"PEREZ,  Jorge Raúl",FRENTE CÍVICO POR SANTIAGO
+30233,432,,,diputados,aperez@diputados.gob.ar,"PÉREZ,  Adrián",COALICIÓN CÍVICA
+30235,766,,,diputados,,"Pasini, Ariel Osvaldo Eloy",FRENTE PARA LA VICTORIA
+30236,426,,,diputados,,"PAROLI,  Raúl Omar",FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+30237,391,,,diputados,,"MORAN,  Juan Carlos",COALICIÓN CÍVICA
+30238,390,,,diputados,,"MONTOYA,  Jorge Luciano",NUCLEO UNIDAD PERONISTA
+30240,337,,,diputados,,"LOPEZ,  Rafael Angel",FRENTE PARA LA VICTORIA
+30241,334,,,diputados,,"LOPEZ ARIAS,  Marcelo Eduardo",PERONISTA
+30242,333,,,diputados,,"LLERA,  Timoteo",FRENTE PARA LA VICTORIA
+30246,323,,,diputados,maria.leguizamon@senado.gov.ar ,"LEGUIZAMON.,  María Laura",FRENTE PARA LA VICTORIA
+30248,343,,,diputados,,"LUNA de MARCOS,  Ana Zulema",FRENTE CÍVICO POR SANTIAGO
+30249,354,,,diputados,,"MARCONATO,  Gustavo Angel",FRENTE PARA LA VICTORIA
+30250,357,,,diputados,,"MARTIARENA,  Mario Humberto",PERONISMO JUJEÑO
+30252,377,,,diputados,,"MERLO,  Mario Raúl",PERONISMO FEDERAL
+30253,374,,,diputados,dalmacio.mera@senado.gob.ar ,"MERA.,  Dalmacio",FRENTE PARA LA VICTORIA
+30258,361,,,diputados,,"MARTINEZ ODDONE,  Heriberto Agustín",UNIÓN CÍVICA RADICAL
+30262,548,,,diputados,,"TORFE,  Mónica Liliana",RENOVADOR DE SALTA
+30269,523,,,diputados,,"SLUGA,  Juan Carlos",FRENTE PARA LA VICTORIA
+30272,566,,,diputados,,"VEGA,  Juan Carlos",COALICIÓN CÍVICA
+30273,584,,,diputados,,"ZAVALLO,  Gustavo Marcelo",PERONISMO FEDERAL
+30276,575,,,diputados,,"WEST,  Mariano Federíco",FRENTE PARA LA VICTORIA
+30280,568,,,diputados,,"VIALE,  Lisandro Alfredo",PARTIDO SOCIALISTA
+30281,520,,,diputados,,"SEREBRINSKY,  Gustavo Eduardo",UNIÓN CÍVICA RADICAL
+30284,469,,,diputados,,"REYES,  María Fernanda",COALICIÓN CÍVICA
+30288,461,,,diputados,,"QUIROZ,  Elsa Siria",COALICIÓN CÍVICA
+30289,460,,,diputados,,"QUIROGA,  Horacio Rodolfo",UNIÓN CÍVICA RADICAL
+30290,459,,,diputados,,"QUINTERO,  Marta Beatriz",FRENTE PARA LA VICTORIA
+30292,473,,,diputados,,"RIOBOO,  Sandra Adriana",UNIÓN CÍVICA RADICAL
+30297,497,,,diputados,,"ROSSI,  Cipriana Lorena",PERONISMO FEDERAL
+30298,496,,,diputados,,"ROSSI,  Alejandro Luis",FRENTE PARA LA VICTORIA
+30300,485,,,diputados,,"RODRIGUEZ,  Evaristo Arturo",FRENTE PARA LA VICTORIA
+30303,455,,,diputados,,"PRIETO,  Hugo Nelson",DE LA CONCERTACIÓN
+30308,104,,,diputados,,"CALCHAQUI,  Mariel",FRENTE PARA LA VICTORIA
+30324,137,,,diputados,,"CHIQUICHANO,  Rosa Laudelina",FRENTE PARA LA VICTORIA
+30331,20,,,diputados,,"ALIZEGUI,  Antonio Anibal",FRENTE PARA LA VICTORIA
+30332,18,,,diputados,,"ALFARO,  German Enrique",FRENTE PARA LA VICTORIA
+30333,17,,,diputados,,"ALCUAZ,  Horacio Alberto",GEN
+30335,11,,,diputados,hilda.aguirre@senado.gov.ar ,"AGUIRRE.,  Hilda Clelia",
+30336,7,,,diputados,,"AGOSTO,  Walter Alfredo",PERONISMO FEDERAL
+30337,4,,,diputados,,"ACOSTA,  María Julia",FRENTE PARA LA VICTORIA
+30339,27,,,diputados,,"ALVAREZ,  Juan José",NUCLEO UNIDAD PERONISTA
+30340,28,,,diputados,,"ALVARO,  Héctor Jorge",DE LA CONCERTACIÓN
+30341,69,,,diputados,,"BELOUS,  Nélida",BLOQUE SOCIAL PATAGÓNICO
+30343,62,,,diputados,,"BASTEIRO,  Sergio Ariel",NUEVO ENCUENTRO POPULAR Y SOLIDARIO
+30346,43,,,diputados,,"ASEF,  Daniel Edgardo",NUCLEO UNIDAD PERONISTA
+30347,37,,,diputados,,"ARGÜELLO,  Octavio",FRENTE PARA LA VICTORIA
+30348,35,,,diputados,,"ARETA,  María Josefa",FRENTE DE TODOS
+30351,309,,,diputados,,"KORENFELD,  Beatriz Liliana",FRENTE PARA LA VICTORIA
+30352,258,,,diputados,,"GIL LOZANO,  Claudia Fernanda",COALICIÓN CÍVICA
+30357,244,,,diputados,,"GARDELLA,  Patricia Susana",CORRIENTE DE PENSAMIENTO FEDERAL
+30359,241,,,diputados,,"GARCIA,  Irma Adriana",PERONISMO FEDERAL
+30362,265,,,diputados,ruperto.godoy@senado.gov.ar ,"GODOY.,  Ruperto Eduardo",FRENTE PARA LA VICTORIA
+30364,293,,,diputados,,"IGLESIAS,  Fernando Adolfo",COALICIÓN CÍVICA
+30365,292,,,diputados,,"IBARRA,  Vilma Lidia",NUEVO ENCUENTRO POPULAR Y SOLIDARIO
+30368,277,,,diputados,,"GULLO,  Juan Carlos Dante",FRENTE PARA LA VICTORIA
+30369,273,,,diputados,cgribaudo@diputados.gob.ar,"GRIBAUDO,  Christian Alejandro",PROPUESTA REPUBLICANA
+30381,173,,,diputados,delarosa@senado.gov.ar ,"de la ROSA., Maria Graciela",FRENTE PARA LA VICTORIA
+30383,165,,,diputados,,"DAMILANO GRIVARELLO,  Viviana Mónica",FRENTE PARA LA VICTORIA
+30384,163,,,diputados,,"DAHER,  Zulema Beatríz",PERONISMO FEDERAL
+30385,162,,,diputados,,"CUSINATO,  Gustavo",UNIÓN CÍVICA RADICAL
+30387,188,,,diputados,,"DIAZ,  Susana Eladia",FRENTE PARA LA VICTORIA
+30389,223,,,diputados,,"FIOL,  Paulina Esther",FRENTE PARA LA VICTORIA
+30395,202,,,diputados,,"FADEL,  Patricia Susana",FRENTE PARA LA VICTORIA
+30396,196,,,diputados,,"DUTTO,  Gustavo Alberto",FRENTE PARA LA VICTORIA
+30399,339,,,diputados,,"LORGES,  Juan Carlos",FRENTE PARA LA VICTORIA
+30401,352,,,diputados,,"MANSUR,  Ricardo Alfredo",UNIÓN CÍVICA RADICAL
+30404,394,,,diputados,,"MOREJON,  Manuel Amor",PERONISTA
+30405,314,,,diputados,,"LANCETA,  Rubén Orfel",UNIÓN CÍVICA RADICAL
+30406,307,,,diputados,,"KENNY,  Eduardo Enrique Federico",UNIÓN CÍVICA RADICAL
+30407,306,,,diputados,,"KATZ,  Daniel",UNIÓN CÍVICA RADICAL
+30409,297,,,diputados,juan.irrazabal@senado.gov.ar ,"IRRAZABAL.,  Juan Manuel",FRENTE PARA LA VICTORIA
+30411,289,,,diputados,,"HOTTON,  Cynthia Liliana",VALORES PARA MI PAÍS
+30413,263,,,diputados,,"GIUDICI,  Silvana Myriam",UNIÓN CÍVICA RADICAL
+30416,564,,,diputados,,"VAZQUEZ,  Silvia Beatriz",PARTIDO DE LA CONCERTACIÓN - FORJA
+30417,561,,,diputados,,"VARGAS AIGNASSE,  Gerónimo",FRENTE PARA LA VICTORIA
+30418,555,,,diputados,,"URLICH,  Carlos",UNIÓN CÍVICA RADICAL
+30419,537,,,diputados,,"STORNI,  Silvia",UNIÓN CÍVICA RADICAL
+30421,516,,,diputados,,"SCALESI,  Juan Carlos",CONSENSO FEDERAL
+30422,515,,,diputados,,"SATRAGNO,  Lidia Elsa",PROPUESTA REPUBLICANA
+30427,448,,,diputados,,"PINTO,  Sergio Damián",UNIÓN CÍVICA RADICAL
+30428,438,,,diputados,,"PERIE,  Hugo Rubén",FRENTE PARA LA VICTORIA
+30430,431,,,diputados,,"PEREYRA,  Guillermo Antonio",FRENTE PARA LA VICTORIA
+30432,260,,,diputados,jgioja@diputados.gob.ar,"Gioja., José Luis",FRENTE PARA LA VICTORIA
+30434,115,,,diputados,,"CARCA,  Elisa Beatriz",COALICIÓN CÍVICA
+30438,90,,,diputados,,"BONASSO,  Miguel Luis",DIÁLOGO POR BUENOS AIRES
+30440,60,,,diputados,,"BARRIOS,  Miguel Angel",PARTIDO SOCIALISTA
+30442,53,,,diputados,,"BALDATA,  Griselda Angela",COALICIÓN CÍVICA
+30444,32,,,diputados,,"ARBO,  José Ameghino",LIBERAL DE CORRIENTES
+30450,243,,,diputados,,"GARCIA,  Susana Rosa",COALICIÓN CÍVICA
+30451,225,,,diputados,,"FLORES,  Héctor",COALICIÓN CÍVICA
+30454,206,,,diputados,,"FEIN,  Mónica Hayde",PARTIDO SOCIALISTA
+30457,199,,,diputados,,"ERRO,  Norberto Pedro",UNIÓN CÍVICA RADICAL
+30459,179,,,diputados,,"del CAMPILLO,  Héctor Eduardo",UNIÓN CÍVICA RADICAL
+30464,127,,,diputados,,"CASTALDO,  Norah Susana",UNIÓN CÍVICA RADICAL
+32432,322,,,diputados,,"Legislador a Designar,  Nro. 4",
+32436,321,,,diputados,,"Legislador a Designar,  Nro. 3",
+32438,320,,,diputados,,"Legislador a Designar,  Nro. 2",
+36500,99,,,diputados,,"BULLRICH,  Esteban José",PROPUESTA REPUBLICANA
+36506,308,,,diputados,,"KIRCHNER,  Néstor Carlos",FRENTE PARA LA VICTORIA
+36549,503,,,diputados,,"RUIZ,  Ramón",FRENTE PARA LA VICTORIA
+36600,210,,,diputados,,"FERNANDEZ BASUALDO,  Luis María",FRENTE PARA LA VICTORIA
+40182,209,,,diputados,,"FELLNER,  Eduardo Alfredo",FRENTE PARA LA VICTORIA
+42451,744,,,diputados,,"#00,  LEGISLADOR A DESIGNAR",FRENTE PARA LA VICTORIA
+48131,681,Massismo y aliados,#b185b7,diputados,mdasneves@diputados.gob.ar,"das neves,  mario",TRABAJO Y DIGNIDAD
+48132,673,Massismo y aliados,#b185b7,diputados,jdemendiguren@diputados.gob.ar,"de mendiguren,  josé ignacio",FRENTE RENOVADOR
+48133,675,Massismo y aliados,#b185b7,diputados,mehcosor@diputados.gob.ar,"ehcosor,  maría azucena",FRENTE RENOVADOR
+48134,685,Massismo y aliados,#b185b7,diputados, lesper@diputados.gob.ar,"esper,  laura",FRENTE RENOVADOR
+48135,679,Massismo y aliados,#b185b7,diputados,efabiani@diputados.gob.ar,"fabiani,  eduardo alberto",FRENTE RENOVADOR
+48136,733,Massismo y aliados,#b185b7,diputados,rgiustozzi@diputados.gob.ar,"GIUSTOZZI,  DARÍO",FRENTE RENOVADOR
+48139,730,Massismo y aliados,#b185b7,diputados,hdaer@diputados.gob.ar,"DAER,  HÉCTOR RICARDO",FRENTE RENOVADOR
+48140,729,Massismo y aliados,#b185b7,diputados,mdalessandro@diputados.gob.ar,"D'ALESSANDRO,  MARCELO",FRENTE RENOVADOR
+48143,676,Massismo y aliados,#b185b7,diputados,galegre@diputados.gob.ar,"alegre,  gilberto oscar",FRENTE RENOVADOR
+48145,691,Peronismo no kirchnerista,#f6a619,diputados,barenas@diputados.gob.ar,"arenas,  berta hortensia",COMPROMISO FEDERAL
+48146,619,Pro y aliados,#fbd95b,diputados,hbaldassi@diputados.gob.ar,"baldassi,  héctor",UNIÓN PRO
+48147,617,Pro y aliados,#fbd95b,diputados,sbergman@diputados.gob.ar,"bergman,  sergio",UNIÓN PRO
+48150,674,Massismo y aliados,#b185b7,diputados,sguzman@diputados.gob.ar,"guzmán,  sandro adrián",FRENTE RENOVADOR
+48151,682,Massismo y aliados,#b185b7,diputados, elagoria@diputados.gob.ar,"lagoria,  elia nelly",TRABAJO Y DIGNIDAD
+48153,678,Massismo y aliados,#b185b7,diputados,mschwindt@diputados.gob.ar,"schwindt,  maría liliana",FRENTE RENOVADOR
+48156,624,Pro y aliados,#fbd95b,diputados,rspinozzi@diputados.gob.ar,"spinozzi,  ricardo adrián",UNIÓN PRO
+48157,736,Pro y aliados,#fbd95b,diputados,fsturzenegger@diputados.gob.ar,"STURZENEGGER,  FEDERICO",UNIÓN PRO
+48158,737,Pro y aliados,#fbd95b,diputados,mtorresdelsel@diputados.gob.ar,"TORRES DEL SEL,  MIGUEL",UNIÓN PRO
+48160,738,Massismo y aliados,#b185b7,diputados,mtundis@diputados.gob.ar,"TUNDIS,  MIRTA",FRENTE RENOVADOR
+48161,688,Peronismo no kirchnerista,#f6a619,diputados,jschiaretti@diputados.gob.ar,"schiaretti,  juan",UNIÓN POR CÓRDOBA
+48162,623,Pro y aliados,#fbd95b,diputados,gscaglia@diputados.gob.ar,"scaglia,  gisela",UNIÓN PRO
+48163,620,Pro y aliados,#fbd95b,diputados, cmacallister@diputados.gob.ar,"mac allister,  carlos javier",UNIÓN PRO
+48167,669,Massismo y aliados,#b185b7,diputados,smassa@diputados.gob.ar,"massa,  sergio",FRENTE RENOVADOR
+48171,692,Peronismo no kirchnerista,#f6a619,diputados, fsalino@diputados.gob.ar,"salino,  fernando aldo",COMPROMISO FEDERAL
+48190,646,Kirchnerismo y aliados,#007caf,diputados,nparrilli@diputados.gob.ar,"parrilli,  nanci maría agustina",FRENTE PARA LA VICTORIA
+48192,635,Kirchnerismo y aliados,#007caf,diputados, jpedrini@diputados.gob.ar,"pedrini,  juan manuel",FRENTE PARA LA VICTORIA
+48193,658,Kirchnerismo y aliados,#007caf,diputados, mperez@diputados.gob.ar,"pérez,  martín alejandro",FRENTE PARA LA VICTORIA
+48196,711,Kirchnerismo y aliados,#007caf,diputados,htentor@diputados.gob.ar,"TENTOR,  HÉCTOR",FRENTE PARA LA VICTORIA
+48198,712,Kirchnerismo y aliados,#007caf,diputados,ntomassi@diputados.gob.ar,"TOMASSI,  NÉSTOR",FRENTE PARA LA VICTORIA
+48202,713,Otros,#A6A6A6,diputados,mvillarm@diputados.gob.ar,"VILLAR MOLINA,  MARÍA INÉS",MOVIMIENTO POPULAR NEUQUINO
+48206,647,Kirchnerismo y aliados,#007caf,diputados,msoria@diputados.gob.ar,"soria,  maría emilia",FRENTE PARA LA VICTORIA
+48208,631,Kirchnerismo y aliados,#007caf,diputados,oromero@diputados.gob.ar,"Romero,  Oscar Alberto",FRENTE PARA LA VICTORIA
+48209,634,Kirchnerismo y aliados,#007caf,diputados,crubin@diputados.gob.ar,"rubín,  carlos gustavo",FRENTE PARA LA VICTORIA
+48211,699,Otros,#A6A6A6,diputados,asanmartin@diputados.gob.ar,"san martín,  adrián",MOVIMIENTO POPULAR NEUQUINO
+48213,632,Kirchnerismo y aliados,#007caf,diputados,sscotto@diputados.gob.ar,"scotto,  silvia carolina",FRENTE PARA LA VICTORIA
+48215,710,Kirchnerismo y aliados,#007caf,diputados,eseminara@diputados.gob.ar,"SEMINARA,  EDUARDO JORGE",FRENTE PARA LA VICTORIA
+48219,638,Kirchnerismo y aliados,#007caf,diputados, agaillard@diputados.gob.ar,"gaillard,  ana carolina",FRENTE PARA LA VICTORIA
+48231,664,Kirchnerismo y aliados,#007caf,diputados, jgagliardi@diputados.gob.ar,"gagliardi,  josué",FRENTE PARA LA VICTORIA
+48236,642,Kirchnerismo y aliados,#007caf,diputados, gfernandezm@diputados.gob.ar,"fernández mendía,  gustavo rodolfo",PARTIDO JUSTICIALISTA LA PAMPA
+48241,651,Kirchnerismo y aliados,#007caf,diputados,scastro@diputados.gob.ar,"castro,  sandra",FRENTE PARA LA VICTORIA
+48245,639,Kirchnerismo y aliados,#007caf,diputados, jbarreto@diputados.gob.ar,"barreto,  jorge rubén",FRENTE PARA LA VICTORIA
+48246,648,Kirchnerismo y aliados,#007caf,diputados,lbardeggia@diputados.gob.ar,"bardeggia,  luis maría",FRENTE PARA LA VICTORIA
+48252,701,Otros,#A6A6A6,diputados,gboyadjian@diputados.gob.ar,"boyadjian,  graciela eunice",MOVIMIENTO POPULAR FUEGUINO
+48253,703,Kirchnerismo y aliados,#007caf,diputados,ncarrizo@diputados.gob.ar,"CARRIZO,  NILDA MABEL",FRENTE PARA LA VICTORIA
+48257,110,Kirchnerismo y aliados,#007caf,diputados,scanela@diputados.gob.ar,"CANELA,  Susana Mercedes",FRENTE PARA LA VICTORIA
+48259,626,Kirchnerismo y aliados,#007caf,diputados, jcabandie@diputados.gob.ar,"cabandié,  juan",FRENTE PARA LA VICTORIA
+48262,644,Kirchnerismo y aliados,#007caf,diputados,aabraham@diputados.gob.ar,"Abraham, Alejandro",FRENTE PARA LA VICTORIA
+48265,629,Kirchnerismo y aliados,#007caf,diputados,minsaurralde@diputados.gob.ar,"insaurralde,  martín",FRENTE PARA LA VICTORIA
+48266,649,Kirchnerismo y aliados,#007caf,diputados,eisa@diputados.gob.ar,"isa,  evita nélida",FRENTE PARA LA VICTORIA
+48267,655,Kirchnerismo y aliados,#007caf,diputados,mhjuarez@diputados.gob.ar,"juárez,  manuel humberto",FRENTE CÍVICO POR SANTIAGO
+48276,707,Kirchnerismo y aliados,#007caf,diputados, tmadera@diputados.gob.ar,"MADERA,  TERESITA",FRENTE PARA LA VICTORIA
+48281,633,Kirchnerismo y aliados,#007caf,diputados, mgill@diputados.gob.ar,"gill,  martín rodrigo",FRENTE PARA LA VICTORIA
+48283,705,Kirchnerismo y aliados,#007caf,diputados,mgomezb@diputados.gob.ar,"GÓMEZ BULL,  MAURICIO",FRENTE PARA LA VICTORIA
+48284,653,Kirchnerismo y aliados,#007caf,diputados,jvgonzalez@diputados.gob.ar,"gonzález,  josefina victoria",FRENTE PARA LA VICTORIA
+48285,662,Kirchnerismo y aliados,#007caf,diputados,vgonzalez@diputados.gob.ar,"gonzález,  verónica",FRENTE PARA LA VICTORIA
+48292,708,Kirchnerismo y aliados,#007caf,diputados,vmagario@diputados.gob.ar,"MAGARIO,  VERÓNICA",FRENTE PARA LA VICTORIA
+48293,668,Kirchnerismo y aliados,#007caf,diputados,jmarcopulos@diputados.gob.ar,"marcópulos,  juan fernando",FRENTE PARA LA VICTORIA
+48294,636,Kirchnerismo y aliados,#007caf,diputados,gmartinezc@diputados.gob.ar,"martínez campos,  gustavo",FRENTE PARA LA VICTORIA
+48298,637,Kirchnerismo y aliados,#007caf,diputados, lgervasoni@diputados.gob.ar,"gervasoni,  lautaro",FRENTE PARA LA VICTORIA
+48304,700,Kirchnerismo y aliados,#007caf,diputados,oamartinez@diputados.gob.ar,"martínez,  oscar anselmo",MOVIMIENTO SOLIDARIO POPULAR
+48305,627,Kirchnerismo y aliados,#007caf,diputados,lmazure@diputados.gob.ar,"mazure,  liliana",FRENTE PARA LA VICTORIA
+48309,689,Peronismo no kirchnerista,#f6a619,diputados,brossi@diputados.gob.ar,"rossi,  blanca araceli",UNIÓN POR CÓRDOBA
+48313,599,UNEN - FAP - UCR,#8eab35,diputados, gvaldes@diputados.gob.ar,"valdés,  gustavo adolfo",UNIÓN CÍVICA RADICAL
+48315,593,UNEN - FAP - UCR,#8eab35,diputados, hgutierrez@diputados.gob.ar,"gutiérrez,  héctor maría",UNIÓN CÍVICA RADICAL
+48316,690,Peronismo no kirchnerista,#f6a619,diputados,gdurandc@diputados.gob.ar,"durand cornejo,  guillermo",CONSERVADOR POPULAR
+48318,612,UNEN - FAP - UCR,#8eab35,diputados,mbarletta@diputados.gob.ar,"barletta,  mario domingo",UNIÓN CÍVICA RADICAL
+48320,86,UNEN - FAP - UCR,#8eab35,diputados,hbinner@diputados.gob.ar,"BINNER,  Hermes",PARTIDO SOCIALISTA
+48321,740,Pro y aliados,#fbd95b,diputados,ecaceres@diputados.gob.ar,"CÁCERES,  EDUARDO",UNIÓN PRO
+48324,125,Peronismo no kirchnerista,#f6a619,diputados,carlos.caserio@senado.gob.ar ,"Caserio.,  Carlos Alberto",UNIÓN POR CÓRDOBA
+48325,597,UNEN - FAP - UCR,#8eab35,diputados,mscarrizo@diputados.gob.ar,"carrizo,  maría soledad",UNIÓN CÍVICA RADICAL
+48326,595,UNEN - FAP - UCR,#8eab35,diputados,ebrizueladelmoral@diputados.gob.ar,"brizuela del moral,  eduardo segundo",FTE. CÍVICO Y SOCIAL DE CATAMARCA
+48327,605,UNEN - FAP - UCR,#8eab35,diputados,julio.cobos@senado.gob.ar ,"Cobos.,  julio césar cleto",UNIÓN CÍVICA RADICAL
+48330,717,UNEN - FAP - UCR,#8eab35,diputados, jdagostino@diputados.gob.ar,"D'AGOSTINO,  JORGE",UNIÓN CÍVICA RADICAL
+48332,720,UNEN - FAP - UCR,#8eab35,diputados,holivares@diputados.gob.ar,"OLIVARES,  HÉCTOR ENRIQUE",UNIÓN CÍVICA RADICAL
+48335,695,Izquierda,#D23939,diputados, ndelcano@diputados.gob.ar,"del caño,  nicolás",PTS - FRENTE DE IZQUIERDA
+48350,603,UNEN - FAP - UCR,#8eab35,diputados,mburgos@diputados.gob.ar,"burgos,  maría gabriela",UNIÓN CÍVICA RADICAL
+48352,614,UNEN - FAP - UCR,#8eab35,diputados,jcano@diputados.gob.ar,"cano,  josé manuel",UNIÓN CÍVICA RADICAL
+48354,715,UNEN - FAP - UCR,#8eab35,diputados,ccarrizo@diputados.gob.ar,"CARRIZO,  ANA CARLA",UNIÓN CÍVICA RADICAL
+48355,718,UNEN - FAP - UCR,#8eab35,diputados,pgimenez@diputados.gob.ar,"GIMÉNEZ,  PATRICIA",UNIÓN CÍVICA RADICAL
+48357,613,UNEN - FAP - UCR,#8eab35,diputados,pjavkin@diputados.gob.ar,"javkin,  pablo lautaro",COALICIÓN CÍVICA - ARI - UNEN
+48358,609,UNEN - FAP - UCR,#8eab35,diputados, jriccardo@diputados.gob.ar,"riccardo,  josé luis",UNIÓN CÍVICA RADICAL
+48360,508,UNEN - FAP - UCR,#8eab35,diputados,fsanchez@diputados.gob.ar,"SÁNCHEZ,  Fernando",COALICIÓN CÍVICA - ARI - UNEN
+48362,723,UNEN - FAP - UCR,#8eab35,diputados,msemhan@diputados.gob.ar,"SEMHAN,  MARÍA DE LAS MERCEDES",UNIÓN CÍVICA RADICAL
+48364,601,UNEN - FAP - UCR,#8eab35,diputados,mtejedor@diputados.gob.ar,"tejedor,  miguel",UNIÓN CÍVICA RADICAL
+48365,610,UNEN - FAP - UCR,#8eab35,diputados,stoledo@diputados.gob.ar,"toledo,  susana maría",UNIÓN CÍVICA RADICAL
+48366,604,UNEN - FAP - UCR,#8eab35,diputados,ftorroba@diputados.gob.ar,"torroba,  francisco",UNIÓN CÍVICA RADICAL
+48367,594,UNEN - FAP - UCR,#8eab35,diputados, gtroiano@diputados.gob.ar,"troiano,  gabriela alejandra",PARTIDO SOCIALISTA
+48373,596,UNEN - FAP - UCR,#8eab35,diputados,mjuarez@diputados.gob.ar,"juárez,  myrian",FTE. CÍVICO Y SOCIAL DE CATAMARCA
+48375,696,Izquierda,#D23939,diputados,plopez@diputados.gob.ar,"lópez,  pablo sebastián",FTE. DE IZQUIERDA Y DE LOS TRABAJADORES
+48376,590,UNEN - FAP - UCR,#8eab35,diputados,mlousteau@diputados.gob.ar,"lousteau,  martín",SUMA + UNEN
+48379,598,UNEN - FAP - UCR,#8eab35,diputados,dmestre@diputados.gob.ar,"mestre,  diego matías",UNIÓN CÍVICA RADICAL
+48381,608,UNEN - FAP - UCR,#8eab35,diputados,lpastori@diputados.gob.ar,"pastori,  luis mario",UNIÓN CÍVICA RADICAL
+48383,607,UNEN - FAP - UCR,#8eab35,diputados, lpetri@diputados.gob.ar,"petri,  luis alfonso",UNIÓN CÍVICA RADICAL
+48384,694,Izquierda,#D23939,diputados,npitrola@diputados.gob.ar,"pitrola,  néstor antonio",FTE. DE IZQUIERDA Y DE LOS TRABAJADORES
+54648,745,Kirchnerismo y aliados,#007caf,diputados,,"BERNABEY,  RAMÓN ERNESTO",NO INTEGRA BLOQUE
+73202,765,Pro y aliados,#fbd95b,diputados,,"Laspina,  Luciano",UNIÓN PRO
+76188,767,,,diputados,,"Bregman,  Myriam",PTS - FRENTE DE IZQUIERDA
+79331,768,UNEN - FAP - UCR,#8eab35,diputados,,"Fernández Blanco,  MarÍA Cristina",UNIÓN CÍVICA RADICAL
+87558,911,PJ no K,#A05F11,senadores,roberto.basualdo@senado.gov.ar ,"Basualdo., Roberto Gustavo",ALIANZA COMPROMISO FEDERAL
+87559,933,PJ no K,#A05F11,senadores,guillermo.pereyra@senado.gov.ar ,"Pereyra., Guillermo Juan",MOVIMIENTO POPULAR NEUQUINO
+87560,902,FPV y aliados,#A5D4E5,senadores,jose.ojeda@senado.gob.ar ,"Ojeda., José Anatolio",FRENTE PARA LA VICTORIA
+87561,932,Otros,#A6A6A6,senadores,,"Odarda., María Magdalena",ALIANZA FRENTE PROGRESISTA
+87562,931,PJ no K,#A05F11,senadores,lnegre@senado.gov.ar ,"Negre de Alonso., Liliana Teresita",ALIANZA COMPROMISO FEDERAL
+87563,929,FPV y aliados,#A5D4E5,senadores,gerardo.montenegro@senado.gov.ar ,"Montenegro., Gerardo Antenor",FRENTE POPULAR
+87566,927,Otros,#A6A6A6,senadores,carlos.menem@senado.gov.ar ,"Menem., Carlos Saúl",ALIANZA FRENTE POPULAR RIOJANO
+87568,925,Cambiemos,#FEDB30,senadores,alfredo.martinez@senado.gov.ar ,"Martínez., Alfredo Anselmo",UNIÓN CÍVICA RADICAL
+87570,944,Cambiemos,#FEDB30,senadores,juan.marino@senado.gov.ar ,"Marino., Juan Carlos",ALIANZA CAMBIEMOS
+87571,924,FPV y aliados,#A5D4E5,senadores,mirta.luna@senado.gov.ar ,"Luna., Mirtha María Teresita",ALIANZA FRENTE PARA LA VICTORIA RIOJANO
+87572,947,Massismo y aliados,#b185b7,senadores,alfredo.luenzo@senado.gob.ar ,"Luenzo., Alfredo Héctor",CHUBUT SOMOS TODOS
+87573,946,FPV y aliados,#A5D4E5,senadores,daniel.lovera@senado.gob.ar ,"Lovera., Daniel Aníbal	",ALIANZA FRENTE PARA LA VICTORIA (PERONISMO PAMPEANO)
+87575,934,FPV y aliados,#A5D4E5,senadores,daniel.persico@senado.gov.ar ,"Pérsico., Daniel Raúl",FRENTE PARA LA VICTORIA
+87576,941,FPV y aliados,#A5D4E5,senadores,gerardo.zamora@senado.gov.ar ,"Zamora., Gerardo",FRENTE CÍVICO POR SANTIAGO
+87577,928,Cambiemos,#FEDB30,senadores,marta.varela@senado.gob.ar ,"Varela., Marta",UNIÓN PRO
+87578,940,FPV y aliados,#A5D4E5,senadores,rodolfo.urtubey@senado.gov.ar ,"Urtubey., Rodolfo Julio	",FRENTE PARA LA VICTORIA
+87580,898,FPV y aliados,#A5D4E5,senadores,maria.sacnun@senado.gob.ar ,"Sacnun., Ángeles",FRENTE PARA LA VICTORIA
+87581,499,Cambiemos,#FEDB30,senadores,angel.rozas@senado.gov.ar ,"ROZAS.,  Ángel",UNIÓN POR CHACO
+87582,939,PJ no K,#A05F11,senadores,juan.romero@senado.gov.ar ,"Romero., Juan Carlos",FRENTE POPULAR SALTEÑO
+87583,938,PJ no K,#A05F11,senadores,adolfo.rodriguezsaa@senado.gov.ar ,"Rodríguez Saá., Adolfo",ALIANZA COMPROMISO FEDERAL
+87584,949,Cambiemos,#FEDB30,senadores,laura.rodriguezmachado@senado.gob.ar ,"Rodríguez Machado., Laura Elena",ALIANZA CAMBIEMOS
+87585,937,FPV y aliados,#A5D4E5,senadores,marina.riofrio@senado.gov.ar ,"Riofrío., Marina Raquel",FRENTE PARA LA VICTORIA
+87586,948,PJ no K,#A05F11,senadores,reuteman@senado.gov.ar ,"Reutemann., Carlos Alberto",ALIANZA CAMBIEMOS
+87589,936,FPV y aliados,#A5D4E5,senadores,pichetto@senado.gov.ar ,"Pichetto., Miguel Ángel	",FRENTE PARA LA VICTORIA
+87590,935,Cambiemos,#FEDB30,senadores,luis.petcoffnaidenoff@senado.gov.ar ,"Petcoff Naidenoff., Luis Carlos",UNIÓN CÍVICA RADICAL
+87591,923,Otros,#A6A6A6,senadores,jaime.linares@senado.gov.ar ,"Linares., Jaime",FRENTE AMPLIO PROGRESISTA
+87593,909,FPV y aliados,#A5D4E5,senadores,maria.labado@senado.gov.ar ,"Labado., María Ester",FRENTE PARA LA VICTORIA
+87595,903,Cambiemos,#FEDB30,senadores,alfredo.deangeli@senado.gov.ar ,"De Ángeli., Alfredo Luis",UNIÓN POR ENTRE RÍOS
+87596,920,Otros,#A6A6A6,senadores,lucila.crexell@senado.gov.ar ,"Crexell., Carmen Lucila",MOVIMIENTO POPULAR NEUQUINO
+87599,942,Cambiemos,#FEDB30,senadores,castillo@senado.gov.ar ,"Castillo., Oscar Aníbal",FRENTE CÍVICO Y SOCIAL
+87601,950,Cambiemos,#FEDB30,senadores,nestor.braillardpoccard@senado.gob.ar,"Braillard Poccard., Néstor Pedro",ALIANZA ENCUENTRO CORRIENTES
+87602,912,Massismo y aliados,#b185b7,senadores,miriam.boyadjian@senado.gov.ar ,"Boyadjian., Miriam Ruth",MOVIMIENTO POPULAR FUEGUINO
+87604,900,FPV y aliados,#A5D4E5,senadores,eduardo.aguilar@senado.gov.ar ,"Aguilar., Eduardo Alberto",FRENTE PARA LA VICTORIA
+87605,896,FPV y aliados,#A5D4E5,senadores,ines.blas@senado.gov.ar ,"Blas., Inés Imelda",FRENTE PARA LA VICTORIA
+87606,895,FPV y aliados,#A5D4E5,senadores,jose.alperovich@senado.gob.ar ,"Alperovich., José",FRENTE PARA LA VICTORIA
+87607,894,FPV y aliados,#A5D4E5,senadores,ana.almiron@senado.gob.ar ,"Almirón., Ana Claudia",FRENTE PARA LA VICTORIA
+87608,901,FPV y aliados,#A5D4E5,senadores,walter.barrionuevo@senado.gov.ar ,"Barrionuevo., Walter",FRENTE PARA LA VICTORIA
+87609,910,FPV y aliados,#A5D4E5,senadores,norma.durango@senado.gob.ar,"Durango., Norma",ALIANZA FRENTE PARA LA VICTORIA (PERONISMO PAMPEANO)
+87610,943,Cambiemos,#FEDB30,senadores,silvia.elias@senado.gov.ar ,"Elías de Perez., Silvia Beatríz",ALIANZA CAMBIEMOS
+87611,908,FPV y aliados,#A5D4E5,senadores,sigrid.kunath@senado.gov.ar ,"Kunath., Sigrid Elisabeth",FRENTE PARA LA VICTORIA
+87612,922,FPV y aliados,#A5D4E5,senadores,ada.iturrez@senado.gov.ar ,"Iturrez de Cappellini.	, Ada Rosa Del Valle",FRENTE CÍVICO POR SANTIAGO
+87614,907,FPV y aliados,#A5D4E5,senadores,pedro.guastavino@senado.gov.ar ,"Guastavino., Pedro Guillermo Ángel",FRENTE PARA LA VICTORIA
+87617,921,FPV y aliados,#A5D4E5,senadores,sandra.gimenez@senado.gov.ar ,"Giménez., Sandra Daniela",FRENTE RENOVADOR DE LA CONCORDIA
+87618,930,Cambiemos,#FEDB30,senadores,silvia.giacoppo@senado.gob.ar ,"Giacoppo., Silvia Del Rosario",UNIÓN CÍVICA RADICAL
+87620,897,FPV y aliados,#A5D4E5,senadores,carlos.espinola@senado.gob.ar ,"Espínola., Carlos",FRENTE PARA LA VICTORIA
+87621,904,FPV y aliados,#A5D4E5,senadores,liliana.fellner@senado.gov.ar ,"Fellner., Liliana Beatriz",FRENTE PARA LA VICTORIA
+87624,905,FPV y aliados,#A5D4E5,senadores,marcelo.fuentes@senado.gov.ar ,"Fuentes., Marcelo Jorge",FRENTE PARA LA VICTORIA
+87625,906,FPV y aliados,#A5D4E5,senadores,virginia.garcia@senado.gob.ar ,"García., Virginia María",FRENTE PARA LA VICTORIA
+87626,899,FPV y aliados,#A5D4E5,senadores,juan.abalmedina@senado.gov.ar ,"Abal Medina., Juan Manuel",FRENTE PARA LA VICTORIA
+87627,913,FPV y aliados,#A5D4E5,senadores,salvador.cabral@senado.gov.ar ,"Cabral., Salvador",FRENTE RENOVADOR DE LA CONCORDIA
+87628,926,FPV y aliados,#A5D4E5,senadores,mayans@senado.gov.ar ,"Mayans., José Miguel Ángel",FRENTE PARA LA VICTORIA
+87629,945,Cambiemos,#FEDB30,senadores,@PameVerasay,"Verasay., Pamela Fernanda",ALIANZA CAMBIEMOS
+87632,828,Massismo y aliados,#b185b7,diputados,mpasso@diputados.gob.ar,"Passo., Marcela",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87633,800,PJ no K,#A05F11,diputados,jforellana@diputados.gob.ar,"Orellana., José Fernando",PRIMERO TUCUMÁN
+87637,854,Cambiemos,#FEDB30,diputados,jnunez@diputados.gob.ar,"Núñez., José Carlos",UNIÓN PRO
+87640,866,Cambiemos,#FEDB30,diputados,jpatino@diputados.gob.ar,"Patiño., José Luis",UNIÓN PRO
+87642,1098,Massismo y aliados,#b185b7,diputados,jraffo@diputados.gob.ar,"Raffo., Julio César",NO INTEGRA BLOQUE
+87643,881,Cambiemos,#FEDB30,diputados,aquintar@diputados.gob.ar,"Quintar., Amado",FTE. CÍVICO Y SOCIAL DE CATAMARCA
+87644,855,Cambiemos,#FEDB30,diputados,jpretto@diputados.gob.ar,"Pretto., Pedro Javier",UNIÓN PRO
+87645,451,PJ no K,#A05F11,diputados,cpoggi@diputados.gob.ar,"POGGI.,  Claudio Javier",AVANZAR SAN LUIS
+87646,830,Massismo y aliados,#b185b7,diputados,cpitiot@diputados.gob.ar,"Pitiot., Carla Betina",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87648,829,Massismo y aliados,#b185b7,diputados,rperez@diputados.gob.ar,"Pérez., Raúl Joaquín",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87649,827,Massismo y aliados,#b185b7,diputados,anazario@diputados.gob.ar,"Nazario., Adriana",UNIDOS POR UNA NUEVA ARGENTINA
+87651,880,Cambiemos,#FEDB30,diputados, mnanniv@diputados.gob.ar,"Nanni., Miguel",UNIÓN CÍVICA RADICAL
+87652,878,Cambiemos,#FEDB30,diputados,samartinez@diputados.gob.ar,"Martínez., Silvia Alejandra",UNIÓN CÍVICA RADICAL
+87653,850,Cambiemos,#FEDB30,diputados,amartinez@diputados.gob.ar,"Martínez., Ana Laura",UNIÓN PRO
+87654,877,Cambiemos,#FEDB30,diputados, lmartinez@diputados.gob.ar,"Martínez Villada., Leonor",COALICIÓN CÍVICA
+87656,876,Cambiemos,#FEDB30,diputados,hmarcucci@diputados.gob.ar,"Marcucci., Hugo María",UNIÓN CÍVICA RADICAL
+87657,867,Cambiemos,#FEDB30,diputados,mmaquieyra@diputados.gob.ar,"Maquieyra., Martín",UNIÓN PRO
+87659,796,PJ no K,#A05F11,diputados, omacias@diputados.gob.ar,"Macias., Oscar Alberto",JUSTICIALISTA
+87662,826,Massismo y aliados,#b185b7,diputados,cmoreau@diputados.gob.ar,"Moreau., Cecilia",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87663,825,Massismo y aliados,#b185b7,diputados,mmorales@diputados.gob.ar,"Morales., Mariana",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87664,879,Cambiemos,#FEDB30,diputados,mmonfort@diputados.gob.ar,"Monfort., Marcelo Alejandro",UNIÓN CÍVICA RADICAL
+87665,852,Cambiemos,#FEDB30,diputados,kmolina@diputados.gob.ar,"Molina., Karina",UNIÓN PRO
+87666,799,PJ no K,#A05F11,diputados,pmiranda@diputados.gob.ar,"Miranda., Pedro Rubén",JUSTICIALISTA
+87668,851,Cambiemos,#FEDB30,diputados,nmassot@diputados.gob.ar,"Massot., Nicolás",UNIÓN PRO
+87669,824,Massismo y aliados,#b185b7,diputados,vmassetani@diputados.gob.ar,"Massetani., Vanesa",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87670,835,PJ no K,#A05F11,diputados,llusquinos@diputados.gob.ar,"Lusquiños., Luis",COMPROMISO FEDERAL
+87671,813,PJ no K,#A05F11,diputados, sziliotto@diputados.gob.ar,"Ziliotto., Sergio Raúl",JUSTICIALISTA
+87675,857,Cambiemos,#FEDB30,diputados,ptorello@diputados.gob.ar,"Torello., Pablo",UNIÓN PRO
+87680,858,Cambiemos,#FEDB30,diputados,purroz@diputados.gob.ar,"Urroz., Paula Marcela",UNIÓN PRO
+87683,863,Cambiemos,#FEDB30,diputados,wwolff@diputados.gob.ar,"Wolff., Waldo Ezequiel",UNIÓN PRO
+87684,862,Cambiemos,#FEDB30,diputados,swisky@diputados.gob.ar,"Wisky., Sergio Javier",UNIÓN PRO
+87685,861,Cambiemos,#FEDB30,diputados,mwechsler@diputados.gob.ar,"Wechsler., Marcelo",UNIÓN PRO
+87686,885,Otros,#A6A6A6,diputados,tvillavicencio@diputados.gob.ar,"Villavicencio., María Teresita",UNIÓN CÍVICA RADICAL
+87688,859,Cambiemos,#FEDB30,diputados,jvillalonga@diputados.gob.ar,"Villalonga., Juan Carlos",UNIÓN PRO
+87689,892,Cambiemos,#FEDB30,diputados,vega@diputados.gob.ar,"Vega., María del Valle",UNIÓN CÍVICA RADICAL
+87691,810,Massismo y aliados,#b185b7,diputados,jtaboada@diputados.gob.ar,"Taboada., Jorge Omar",CHUBUT SOMOS TODOS
+87697,883,Cambiemos,#FEDB30,diputados,hroquel@diputados.gob.ar,"Roquel., Héctor Alberto",UNIÓN CÍVICA RADICAL
+87699,856,Cambiemos,#FEDB30,diputados,croma@diputados.gob.ar,"Roma., Carlos Gastón",UNIÓN PRO
+87704,868,Cambiemos,#FEDB30,diputados,,"Sorgente., Marcelo",UNIÓN PRO
+87705,808,PJ no K,#A05F11,diputados,gsnopek@diputados.gob.ar,"Snopek., Guillermo",JUSTICIALISTA
+87706,832,Massismo y aliados,#b185b7,diputados,asnopek@diputados.gob.ar,"Snopek., Alejandro Francisco",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87708,831,Massismo y aliados,#b185b7,diputados,cselva@diputados.gob.ar,"Selva., Carlos Américo",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87711,882,Cambiemos,#FEDB30,diputados,orista@diputados.gob.ar,"Rista., Olga María",UNIÓN CÍVICA RADICAL
+87712,848,Cambiemos,#FEDB30,diputados,slospennato@diputados.gob.ar,"Lospennato., Silvia",UNIÓN PRO
+87713,891,Cambiemos,#FEDB30,diputados,acopes@diputados.gob.ar,"Copes., Ana ",PARTIDO DEMÓCRATA PROGRESISTA
+87715,836,Massismo y aliados,#b185b7,diputados,acalleri@diputados.gob.ar,"Calleri., Agustín",UNIDOS POR UNA NUEVA ARGENTINA
+87718,864,Cambiemos,#FEDB30,diputados,sbuil@diputados.gob.ar,"Buil., Sergio Omar",UNIÓN PRO
+87719,823,Massismo y aliados,#b185b7,diputados, jbrugge@diputados.gob.ar,"Brügge., Juan",UNIDOS POR UNA NUEVA ARGENTINA
+87721,833,Massismo y aliados,#b185b7,diputados,mbrezzo@diputados.gob.ar,"Brezzo., María Eugenia.",UNIDOS POR UNA NUEVA ARGENTINA
+87724,869,Cambiemos,#FEDB30,diputados,econesa@diputados.gob.ar,"Conesa., Eduardo",UNIÓN PRO
+87725,776,FPV y aliados,#A5D4E5,diputados,mcloss@diputados.gob.ar,"Closs., Maurice Fabián",FRENTE PARA LA VICTORIA
+87727,1099,PJ no K,#A05F11,diputados,,"Caviglia., Franco ",NO INTEGRA BLOQUE
+87728,820,Massismo y aliados,#b185b7,diputados,ecastrom@diputados.gob.ar,"Castro Molina., Enrique",COMPROMISO CON SAN JUAN
+87732,770,PJ no K,#A05F11,diputados,dbossio@diputados.gob.ar,"Bossio., Diego",JUSTICIALISTA
+87733,91,Cambiemos,#FEDB30,diputados, lborsani@diputados.gob.ar,"BORSANI.,  Luis Gustavo",UNIÓN CÍVICA RADICAL
+87735,839,Cambiemos,#FEDB30,diputados,ebalbo@diputados.gob.ar,"Balbo., Elva Susana",UNIÓN PRO
+87738,834,Massismo y aliados,#b185b7,diputados,halonso@diputados.gob.ar,"Alonso., Horacio",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87741,890,Cambiemos,#FEDB30,diputados,galbornoz@diputados.gob.ar,"Albornoz., Gabriela",UNIÓN CÍVICA RADICAL
+87742,838,Cambiemos,#FEDB30,diputados,sacerenza@diputados.gob.ar,"Acerenza., Samantha",UNIÓN PRO
+87744,871,Cambiemos,#FEDB30,diputados,kbanfi@diputados.gob.ar,"Banfi., Karina Verónica",UNIÓN CÍVICA RADICAL
+87746,819,Massismo y aliados,#b185b7,diputados,gbevilacqua@diputados.gob.ar,"Bevilacqua., Gustavo",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87747,865,Cambiemos,#FEDB30,diputados,abesada@diputados.gob.ar,"Besada., Alicia",UNIÓN PRO
+87749,814,Massismo y aliados,#b185b7,diputados,sbermejo@diputados.gob.ar,"Bermejo., Sixto",TRABAJO Y DIGNIDAD
+87750,886,Cambiemos,#FEDB30,diputados,,"Bellocq., Gerardo",UNIÓN CÍVICA RADICAL
+87754,849,Cambiemos,#FEDB30,diputados,llopezk@diputados.gob.ar,"López Koenig., Leandro",UNIÓN PRO
+87756,846,Cambiemos,#FEDB30,diputados,lincicco@diputados.gob.ar,"Incicco., Lucas",UNIÓN PRO
+87757,884,Cambiemos,#FEDB30,diputados,shuczak@diputados.gob.ar,"Huczak., Stella",UNIÓN PRO
+87758,840,Cambiemos,#FEDB30,diputados,ahers@diputados.gob.ar,"Hers Cabral., Anabella Ruth",UNIÓN PRO
+87759,769,PJ no K,#A05F11,diputados, lherrera@diputados.gob.ar,"Herrera., Luis Beder",JUSTICIALISTA
+87761,875,Cambiemos,#FEDB30,diputados,mhernandez@diputados.gob.ar,"Hernández., Martín",UNIÓN CÍVICA RADICAL
+87765,870,Cambiemos,#FEDB30,diputados,mlopardo@diputados.gob.ar,"Lopardo., María Paula",UNIÓN PRO
+87766,837,Massismo y aliados,#b185b7,diputados,,"Litza., Mónica",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87767,847,Cambiemos,#FEDB30,diputados,dlipovetzky@diputados.gob.ar,"Lipovetzky., Daniel",UNIÓN PRO
+87768,822,Massismo y aliados,#b185b7,diputados,mlavagna@diputados.gob.ar,"Lavagna., Marco Juan",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87774,821,Massismo y aliados,#b185b7,diputados,agrandinetti@diputados.gob.ar,"Grandinetti., Alejandro Ariel",FEDERAL UNIDOS POR UNA NUEVA ARGENTINA
+87776,887,FAP,#CECA7A,diputados,ldure@diputados.gob.ar,"Duré., Lucila",PARTIDO SOCIALISTA
+87778,872,Cambiemos,#FEDB30,diputados,jdindart@diputados.gob.ar,"Dindart., Julián",UNIÓN CÍVICA RADICAL
+87780,778,PJ no K,#A05F11,diputados, jdavid@diputados.gob.ar,"David., Néstor Javier",JUSTICIALISTA
+87784,873,Cambiemos,#FEDB30,diputados,aechegaray@diputados.gob.ar,"Echegaray., Alejandro Carlos Augusto",UNIÓN CÍVICA RADICAL
+87787,844,Cambiemos,#FEDB30,diputados,agonzalez@diputados.gob.ar,"González., Álvaro Gustavo",UNIÓN PRO
+87788,874,Cambiemos,#FEDB30,diputados,hgoicoechea@diputados.gob.ar,"Goicoechea., Horacio",UNIÓN CÍVICA RADICAL
+87791,843,Cambiemos,#FEDB30,diputados,ygayol@diputados.gob.ar,"Gayol., Yanina Celeste",UNIÓN PRO
+87792,842,Cambiemos,#FEDB30,diputados,fgarreton@diputados.gob.ar,"Garretón., Facundo",UNIÓN PRO
+87794,785,FPV y aliados,#A5D4E5,diputados,jfranco@diputados.gob.ar,"Franco., Jorge Daniel",FRENTE PARA LA VICTORIA
+87799,803,FPV y aliados,#A5D4E5,diputados,aramos@diputados.gob.ar,"Ramos., Alejandro",FRENTE PARA LA VICTORIA
+87800,817,FPV y aliados,#A5D4E5,diputados,dmartinez@diputados.gob.ar,"Martínez., Darío",FRENTE PARA LA VICTORIA
+87802,797,FPV y aliados,#A5D4E5,diputados,mmasin@diputados.gob.ar,"Masín., María Lucila",FRENTE PARA LA VICTORIA
+87803,888,FAP,#CECA7A,diputados,fmasso@diputados.gob.ar,"Masso., Federico",LIBRES DEL SUR
+87807,798,FPV y aliados,#A5D4E5,diputados,vmercado@diputados.gob.ar,"Mercado., Verónica",FRENTE PARA LA VICTORIA
+87810,795,FPV y aliados,#A5D4E5,diputados,allanosm@diputados.gob.ar,"LLanos., Ana",FRENTE PARA LA VICTORIA
+87812,790,FPV y aliados,#A5D4E5,diputados,shorne@diputados.gob.ar,"Horne., Silvia Reneé",FRENTE PARA LA VICTORIA
+87813,791,FPV y aliados,#A5D4E5,diputados,jhuss@diputados.gob.ar,"Huss., Juan Manuel",FRENTE PARA LA VICTORIA
+87814,792,FPV y aliados,#A5D4E5,diputados,sigon@diputados.gob.ar,"Igon., Santiago",FRENTE PARA LA VICTORIA
+87815,793,FPV y aliados,#A5D4E5,diputados,akicillof@diputados.gob.ar,"Kicillof., Axel",FRENTE PARA LA VICTORIA
+87816,794,FPV y aliados,#A5D4E5,diputados,mkirchner@diputados.gob.ar,"Kirchner., Máximo",FRENTE PARA LA VICTORIA
+87825,809,FPV y aliados,#A5D4E5,diputados,asoraire@diputados.gob.ar,"Soraire., Mirta Alicia",FRENTE PARA LA VICTORIA
+87827,818,Izquierda,#D23939,diputados,vsosacapurro@diputados.gob.ar,"Sosa Capurro., Victoria Soledad",FTE. DE IZQUIERDA Y DE LOS TRABAJADORES
+87828,811,FPV y aliados,#A5D4E5,diputados,ltailhade@diputados.gob.ar,"Tailhade., Luis Rodolfo",FRENTE PARA LA VICTORIA
+87830,807,FPV y aliados,#A5D4E5,diputados,jruiza@diputados.gob.ar,"Ruiz Aragón., José",FRENTE PARA LA VICTORIA
+87831,806,FPV y aliados,#A5D4E5,diputados,rrodriguez@diputados.gob.ar,"Rodríguez., Rodrigo",FRENTE PARA LA VICTORIA
+87832,801,FPV y aliados,#A5D4E5,diputados,jpereyra@diputados.gob.ar,"Pereyra., Juan Manuel",CONCERTACIÓN FORJA
+87836,802,FPV y aliados,#A5D4E5,diputados,arachq@diputados.gob.ar,"Rach Quiroga., Analía",FRENTE PARA LA VICTORIA
+87837,804,FPV y aliados,#A5D4E5,diputados,fraverta@diputados.gob.ar,"Raverta., María Fernanda",FRENTE PARA LA VICTORIA
+87839,805,FPV y aliados,#A5D4E5,diputados,mrodriguez@diputados.gob.ar,"Rodríguez., Matías",FRENTE PARA LA VICTORIA
+87840,812,FPV y aliados,#A5D4E5,diputados,lvolnovich@diputados.gob.ar,"Volnovich., Luana",FRENTE PARA LA VICTORIA
+87842,773,FPV y aliados,#A5D4E5,diputados,acarol@diputados.gob.ar,"Carol., Analuz Ailen",FRENTE PARA LA VICTORIA
+87844,775,FPV y aliados,#A5D4E5,diputados,ccastagneto@diputados.gob.ar,"Castagneto., Carlos",FRENTE PARA LA VICTORIA
+87850,889,FAP,#CECA7A,diputados,gcousinet@diputados.gob.ar,"Cousinet., Graciela",LIBRES DEL SUR
+87853,24,FPV y aliados,#A5D4E5,diputados,malvarezr@diputados.gob.ar,"ALVAREZ RODRIGUEZ.,  Cristina",FRENTE PARA LA VICTORIA
+87855,816,FPV y aliados,#A5D4E5,diputados,,"Arrieta., Gustavo",FRENTE PARA LA VICTORIA
+87860,771,FPV y aliados,#A5D4E5,diputados,mbritez@diputados.gob.ar,"Britez., María Cristina",FRENTE PARA LA VICTORIA
+87863,779,FPV y aliados,#A5D4E5,diputados,ldeponti@diputados.gob.ar,"De Ponti., Lucila María",FRENTE PARA LA VICTORIA
+87864,780,FPV y aliados,#A5D4E5,diputados,jdevido@diputados.gob.ar,"De Vido., Julio",FRENTE PARA LA VICTORIA
+87865,787,FPV y aliados,#A5D4E5,diputados,ngarre@diputados.gob.ar,"Garré., Nilda",FRENTE PARA LA VICTORIA
+87870,788,FPV y aliados,#A5D4E5,diputados,agrana@diputados.gob.ar,"Grana., Adrián",FRENTE PARA LA VICTORIA
+87873,789,FPV y aliados,#A5D4E5,diputados, mguerin@diputados.gob.ar,"Guerín., María Isabel",FRENTE PARA LA VICTORIA
+87877,781,FPV y aliados,#A5D4E5,diputados,ddistefano@diputados.gob.ar,"Di Stefano., Daniel",FRENTE PARA LA VICTORIA
+87879,782,FPV y aliados,#A5D4E5,diputados,cdonate@diputados.gob.ar,"Doñate., Claudio Martín ",FRENTE PARA LA VICTORIA
+87881,783,FPV y aliados,#A5D4E5,diputados,gestevez@diputados.gob.ar,"Estevez., Gabriela",FRENTE PARA LA VICTORIA
+87883,784,FPV y aliados,#A5D4E5,diputados,sfrana@diputados.gob.ar,"Frana., Silvina Patricia",FRENTE PARA LA VICTORIA
+87884,786,FPV y aliados,#A5D4E5,diputados,ffurlan@diputados.gob.ar,"Furlán., Francisco",FRENTE PARA LA VICTORIA
+87885,815,FPV y aliados,#A5D4E5,diputados,aguzman@diputados.gob.ar,"Guzmán., Andrés",FRENTE PARA LA VICTORIA
+88433,1167,Cambiemos,#FEDB30,diputados,,"Austin., Brenda",UNIÓN CÍVICA RADICAL
+89729,1179,Massismo y aliados,#b185b7,diputados,mpenalozam@diputados.gob.ar,"PeÑAloza Marianetti,  MarÌA Florencia",COMPROMISO CON SAN JUAN
+91462,853,Cambiemos,#FEDB30,diputados,emonzo@diputados.gob.ar,"Monzó., Emilio",UNIÓN PRO
+91511,1181,,,diputados,,"PeÑAloza Marianetti,  Mar1A Florencia",COMPROMISO CON SAN JUAN
+93275,1182,,,diputados,,"Tole0O,  Susana MarÍA",UNIÓN CÍVICA RADICAL
