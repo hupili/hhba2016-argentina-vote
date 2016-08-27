@@ -1,0 +1,272 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>lanacion.com - Votaciones en el congreso</title>
+
+    <link href="/static/favicon.3ae9c7b0ca29.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <meta name="title" content="lanacion.com">
+    <meta name="description" content="El sitio de interactivo de las votaciones">
+    <meta name="keywords" content="diputados, senadores, votaciones, actas, congreso, cámara, senado">
+    <meta name="copyright" content="2016lanacion.com">
+    <meta name="application-name" content="lanacion.com">
+    <meta name="msapplication-starturl" content="http://www.lanacion.com.ar/">
+    <meta name="msapplication-tooltip" content="Noticias actualizadas las 24 hs.">
+    <!-- mestas face-->
+    <meta property="og:title" content="Votaciones - lanacion.com.ar">
+    <meta property="og:site_name" content="Congresoscopio - lanacion.com.ar ">
+    <meta property="og:description" content="El sitio interactivo de las votaciones de nuestros diputados">
+    <meta property="og:image" content="http://votaciones.lanacion.com.ar/static/img/print_social_2.jpg">
+    <link rel="image_src" href="http://votaciones.lanacion.com.ar/static/img/print_social_2.jpg" />
+    <!-- fix IE < 9 -->
+    <!--[if lt IE 9]>
+    <script type="text/javascript">
+      // create elements HTML5 for IE
+      document.createElement("aside");
+      document.createElement("article");
+      document.createElement("section");
+      document.createElement("footer");
+      document.createElement("header");
+      document.createElement("hgroup");
+      document.createElement("nav");
+    </script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="http://especiales.lanacion.com.ar/multimedia/proyectos/fonts/font.css"  />
+<link rel="stylesheet" href="/static/CACHE/css/76083700c447.css" type="text/css" />
+
+    <link rel="stylesheet" media="screen and (max-width:780px)" href="/static/css/estilos_780.3efca6dd9b62.css" type="text/css" />
+    <link rel="stylesheet" media="screen and (max-width:520px)" href="/static/css/estilos_520.2aeab735e26c.css" type="text/css" />
+
+    
+<style>
+    #spinner {display: none}
+    h2 {width:40%;  margin:0px; font:24px  'TheSansBold', 'Arial'; color:#32a8d0; margin-bottom: 10px;} 
+    #sistemap { }
+    #sistemap li { margin: 10px; font-size: 14px; font-weight: bold; }
+    #sistemap li li { list-style: disc; margin-left: 25px }
+    h3 { font-size: 18px;}
+</style>
+
+</head>
+
+
+<body>
+<script type="text/javascript">
+    
+    var CAMARA = "diputados";
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+ var _comscore = _comscore || [];
+ _comscore.push({ c1: "2", c2: "6906398" });
+ (function() {
+   var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+   el.parentNode.insertBefore(s, el);
+ })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6906398&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!--CABEZAL-->
+<header>
+    
+<!-- para nota -->
+    <div class="cnt-nota">
+        <!--<img src="/static/img/congreso.e9353216fca5.gif" width="45"/>-->
+        <a href="http://votaciones.lanacion.com.ar" target="_blank"><div class="verapp">Ir a la aplicación</div></a>
+        <hgroup>
+            <h1 itemprop="name"><a href="http://votaciones.lanacion.com.ar/" target="_blank">Congresoscopio</a></h1>
+            <h2>¿Cómo votan nuestros legisladores?</h2>
+        </hgroup>
+    </div>
+
+<!-- para WEB -->
+    <div class="cnt-web">
+        <section class="cabezal interna floatFix">     
+
+            <a class="logo" href="http://www.lanacion.com.ar"  title="lanacion.com" target="_blank">
+              &nbsp;
+            </a>
+            <section class="tema">
+              <section class="encabezado">
+                <h2><a href="http://votaciones.lanacion.com.ar/" target="_blank">Congresoscopio</a></h2>
+                </section>
+            </section>
+
+                <div class="floatFix redes">
+        <div id="cuerpo">
+            <div id="herramientas" class="top redes">
+                <div class=" ">
+                        <a href="#" class="icon-facebook" id="facebook" data-minisocial="fb"></a>
+                        <a href="#" class="icon-twitter" id="twitter" data-minisocial="tw"></a>
+                    <div class="mas">
+                            <a href="#" class="icon-google" id="plus" title="Google +" data-minisocial="g+">&nbsp; </a>
+                            <a href="#" class="icon-mail-footer" id="mail" title="Enviar por E-mail" data-minisocial="mail">&nbsp; </a>
+                            <a href="#" class="icon-code-1" id="iframe" title="Obtener un iframe" data-minisocial="iframe">&nbsp; </a>
+                    </div>
+                    <!--<a class="volver" href="#top"> &nbsp;</a>-->
+                </div>
+            </div>
+        </div>
+    </div>
+            <!-- <div class="redes">
+            </div> -->
+        </section>
+    </div> <!-- cierra "header-web" -->
+
+</header>
+
+<!--CABEZAL-->
+<div class="contenedor cnt-web" id="secciones">
+    <h1 class="subtitulo">¿Cómo votan nuestros legisladores?</h1>
+
+    <div class="switcher diputados" id="switcher">
+        <a class="bt" id="btDipu" href="/diputados/home" onClick="_gaq.push(['_trackEvent', 'votaciones_btn_switch_diputados'])">DIPUTADOS</a>
+        <a class="bt" id="btSena" href="/senadores/home" onClick="_gaq.push(['_trackEvent', 'votaciones_btn_switch_senadores'])">SENADORES</a>
+        <div class="slider"></div>
+    </div>
+
+    <div class="fondo">
+        <ul id="botones">
+            <li id="leyes" class="boton "><a href="/diputados/leyes" target="_self" onclick="_gaq.push(['_trackEvent', 'votaciones_botonera', 'diputados', 'Leyes']);">LEYES</a></li>
+            <li id="bancas" class="boton "><a href="/diputados/bancas" target="_self"  onclick="_gaq.push(['_trackEvent', 'votaciones_botonera', 'diputados', 'Bancas']);">LEGISLADORES</a></li>
+            <li id="comparar" class="boton "><a href="/diputados/comparador" target="_self"  onclick="_gaq.push(['_trackEvent', 'votaciones_botonera', 'diputados', 'Comparador']);">COMPARADOR</a></li>
+            <li id="ranking" class="boton "><a href="/diputados/ranking" target="_self" onclick="_gaq.push(['_trackEvent', 'votaciones_botonera', 'diputados', 'Ranking']);">RANKINGS</a></li>
+            <li id="foros" class="boton "><a href="/diputados/debate" target="_self" onclick="_gaq.push(['_trackEvent', 'votaciones_botonera', 'diputados', 'Debate']);">DEBATE</a></li>
+        </ul>
+    </div>
+</div>
+
+  
+
+<section id="contenedor">
+    
+
+    
+<div style="text-align: center;">
+	
+<h2 style="width:auto; margin-top: 36px; color:#333">Esta URL es inválida.</h2>
+<p style="font-size: 14px; color: #666">Por favor verifíquela o visite nuestra página de <a href="/">inicio</a></p>
+</div>
+
+
+
+</section>
+
+
+<!-- PIE -->
+<p id="fuente_de_data" class="grey"><span class="bold">Fuente:</span> Cámara de Diputados de la Nación y Cámara de Senadores de la Nación<!-- Cámara de diputados de la Nación --> (sesiones ordinarias)</p>
+<footer>
+<!-- contenido para notas -->
+    <div class="cnt-nota">
+        <a href="http://votaciones.lanacion.com.ar" target="_blank"><div class="verapp">Ir a la aplicación</div></a>
+    </div>
+
+    <!-- contenido para webs -->
+    <div class="cnt-web">
+    <section id="pie" class="floatFix expandido">
+        <a href="#" class="btn_ctos" id="ctos" onclick="fn_popup.show('#tmpl_ctos'); return false;">Créditos</a>
+        <a title="Obtener código QR" href="/qrcode.png" target="_blank" class="btn_ctos" id="get_qr" style="margin-right:10px">Código QR</a>
+            <div class="copy floatFix"><span style="margin-top: 15px" class="textoCopy">Copyright <span id="anio"></span> SA LA NACION | Todos los derechos reservados.&nbsp;</span></div>
+    </section>
+
+    </div>
+</footer>
+
+
+<div class="popUp" id="tooltip">
+</div>
+
+<div hidden id="alert-popup" class="alert-popup" onclick="">
+    <div class="content-popup" onclick="">
+        <a href="#" id="close" class="close" onclick="fn_popup.hide(); return false;">X</a>    
+        <div id="body-popup" class="body-popup">
+            
+        </div>        
+    </div>
+</div>
+
+<script id="tmpl_ctos" type="text/template">
+    <h2>Créditos</h2>
+    <ul style="padding-bottom:20px">
+        <li><span class="rol">Diseño interactivo:</span> Gastón de la Llana, Nicolás Rivera, Mariana Trigo Viera, Yanina Ronconi</li>
+        <li><span class="rol">Programación:</span> Cristian Bertelegni, Gastón de la Llana</li>
+        <li><span class="rol">Análisis y desarrollo de datos:</span> Gabriela Bouret</li>
+        <li><span class="rol">Producción de Datos:</span> Ricardo Brom</li>
+        <li><span class="rol">Edición fotgráfica:</span> Fernanda Corbani, Nicolás Rivera</li>
+        <li><hr></li>
+        <li><span class="rol">Líder de proyecto:</span> Florencia Fernández Blanco</li>
+        <li><span class="rol">Editor de visualizaciones multiplataforma:</span> Pablo Loscri</li>
+        <li><span class="rol">Editor responsable:</span> Gastón Roitberg</li>
+    </ul>
+</script>
+
+
+<!-- PIE -->
+
+
+
+    <!--
+     <script>
+        $(document).ready(function () {
+
+            $(window).scroll(function () {
+                var cuerpoHeight = $('#contenedor').height();
+                var cuerpoTope = $('#contenedor').offset().top;
+                var cuerpoBottom = cuerpoTope + cuerpoHeight;
+                var herramientas = ($('#herramientas.top').offset().top) + ($('#herramientas.top').height());
+                var cuerpoLimite = $('#pie').offset().top - 245;
+
+                if ($(window).scrollTop() > herramientas) {
+                    $('#herramientas.top').addClass('scroll');
+                }
+
+                if ($(window).scrollTop() < herramientas) {
+                    $('#herramientas.top').removeClass('scroll');
+                }
+            });
+        });
+    </script>
+ -->
+
+<!-- LN LOADER -->
+<div id="loader">
+<script src="http://especiales.lanacion.com.ar/multimedia/proyectos/LN_loader/js/spin.min.js"></script>   
+
+<div id="spinner" style="width: 60px; height: 120px; position:absolute; left: 50%; top: 50%; margin-left:-30px; background: url('http://especiales.lanacion.com.ar/multimedia/proyectos/LN_loader/ln.svg') center no-repeat;"></div>
+
+<script>
+var opts={lines:40,length:2,width:1,radius:25,corners:0.5,rotate:1,color:"#006998",speed:1,trail:60,shadow:false,hwaccel:false,className:"spinner",zIndex:2000000000,top:0,left:0};var target=document.getElementById("spinner");var spinner=new Spinner(opts).spin(target);</script>
+</div>
+
+<!-- LN LOADER -->
+<!-- 
+    <script src="/static/js/libs/jquery-1.10.2.min.bdce12c949e7.js" ></script>
+    <script src="/static/js/libs/jquery.dataTables.min.84d67f7ed99b.js" ></script>
+    <script src="/static/js/libs/select2.min.d6be03438a57.js" ></script>
+    <script src="/static/js/libs/select2_locale_es.76efa04b31e9.js" ></script>
+    <script src="/static/js/libs/handlebars-v1.3.0.d7a58c286b23.js" ></script>
+    <script src="/static/js/handlebars_helpers.69f3e56e3d2f.js" ></script>
+    <script src="/static/js/libs/minisocial.2927408794f1.js" ></script>
+    <script src="/static/js/global.9073e58eb9dd.js" ></script>
+ -->
+ <script src="http://especiales.lanacion.com.ar/multimedia/proyectos/js/pym.js" ></script>
+<script type="text/javascript" src="/static/CACHE/js/6e4fa4b49204.js"></script>
+
+    
+<script id="ga_scr" src="/static/js/google_analytics.c97a0f799586.js" data-page="congresoscopio_404"></script>
+
+
+
+</body>
+</html>
