@@ -2,37 +2,62 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
-  <script src="js/aframe.min.js"></script>
-  <script src="js/aframe-text-component.min.js"></script>
-  <script src="font/droid_sans_mono_regular.typeface.js"></script>
+  <title>Argentina Parliament Vote Visualization</title>
+  <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  <script src="https://unpkg.com/aframe-text-component@2.2.1/dist/aframe-text-component.min.js"></script>
 </head>
 <body>
   <a-scene id="ascene">
 
+    
     <a-sky color="#ECECEC"></a-sky>
-
 
     <a-entity position="0 0 6">
       <a-camera>
 
-        <a-image src="img/references.png" position="-1.5 0 -2" width="2" height="2"></a-image>
+        <a-image src="img/references.png" position="-2.5 1.5 -3" width="2" height="2"></a-image>
 
       </a-camera>
     </a-entity>
 
   </a-scene>
-  
   <script src="data/pc-member-3d.js"></script>
   <script>
-    var spheres='';
-    var arr = Object.keys(jsonData).map(function(k) { return jsonData[k] });
-    for (var i=0;i<arr.length;i++){
 
-    spheres += '<a-sphere position="'+ arr[i].PC1 + ' ' + arr[i].PC2 + ' ' + arr[i].PC3 +'" radius=".1" color="' + arr[i].agrupacion_color + '"></a-sphere>';
-    };
+    document.addEventListener('DOMContentLoaded', function () {
+      var sceneEl = document.querySelector('a-scene');
+      sceneEl.addEventListener('loaded', function () {
+        // Scene is loaded, now generate spheres
+        console.log('Scene is loaded, now generate spheres');
+        var arr = Object.keys(jsonData).map(function(k) { return jsonData[k] });
+        for (var i = 0; i < arr.length; i++) {
+          var sphereEl = document.createElement('a-sphere');
+          sphereEl.setAttribute('position', {
+            x: arr[i].PC1,
+            y: arr[i].PC2,
+            z: arr[i].PC3
+          });
+          sphereEl.setAttribute('radius', 0.1);
+          sphereEl.setAttribute('color', arr[i].agrupacion_color);
 
-    ascene.innerHTML += spheres;
+          // Create text label for the sphere
+          var textEl = document.createElement('a-text');
+          textEl.setAttribute('value', arr[i].nombre);
+          // Position the text slightly above and in front of the sphere
+          textEl.setAttribute('position', {
+            x: arr[i].PC1,
+            y: arr[i].PC2 + 0.15, // Offset Y to appear above the sphere
+            z: arr[i].PC3
+          });
+          textEl.setAttribute('scale', '0.2 0.2 0.2'); // Adjust scale as needed
+          textEl.setAttribute('color', '#000000'); // Black color for text
+          textEl.setAttribute('align', 'center');
+          sceneEl.appendChild(sphereEl);
+          sceneEl.appendChild(textEl);
+        }
+      });
+    });
+
   </script>
 </body>
 </html>
