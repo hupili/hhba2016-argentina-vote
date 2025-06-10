@@ -1,7 +1,7 @@
 
 ## Demo Page
 
-http://project.hupili.net/hhba2016-argentina-vote/landing.html
+http://project.hupili.net/hhba2016-argentina-vote/index.html
 
 ## Data source 
 
