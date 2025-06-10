@@ -1,5 +1,5 @@
 #!/bin/bash
 
-git push origin master:gh-pages
-git push origin master:master  
+git push origin main:gh-pages
+git push origin main:master  
 
